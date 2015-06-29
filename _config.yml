@@ -8,15 +8,15 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Beissinger Lab
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Tim Beissinger
+  email : timbeissinger@gmail.com	
+  github : timbeissinger
+  twitter : timbeissinger
   feedburner : nil
 
-production_url : http://kbroman.github.io/simple_site
+production_url : http://beissingerlab.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
