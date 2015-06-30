@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: People
+permalink: /People/
 ---
 *Arctic Fox* is a lightweight and customisable Jekyll Theme.
 
