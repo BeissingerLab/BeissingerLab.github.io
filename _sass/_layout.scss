@@ -78,6 +78,8 @@
         font-size: 12px;
         font-family: Open Sans;
         color: #959595;
+	height: 180px;
+	margin-top: -180px;
     }
 
     .footer img {
@@ -93,6 +95,8 @@
     .page-content {
         padding: $spacing-unit 0;
         text-align: justify;
+	overflow:auto;
+	padding-bottom: 180px;
     }
 
     .page-heading {
