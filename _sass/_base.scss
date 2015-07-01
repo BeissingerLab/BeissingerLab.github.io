@@ -76,6 +76,7 @@
     a {
         color: $brand-color;
         text-decoration: underline;
+	target: blank;
 
         &:hover {
             color: $brand-color;
