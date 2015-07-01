@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 
-### In peer reviewed journals
+
 Haase, N.J., **Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C.R., Kaeppler, S., de Leon, N. 2015. [Genetic Dissection of quantita- tive traits using a bulked segregant analysis (BSA)-sequencing method on a large segregating population of maize.](http://www.g3journal.org/content/early/2015/06/01/g3.115.017665.abstract){:target="_blank"} DOI: 10.1534/g3.115.017665.
 
 **Beissinger, T.M.**, Rosa, J.G.M., Kaeppler, S.M., de Leon, N., Gianola, D. 2015. [Defining window-boundaries for genomic analyses using smoothing spline techniques.](http://www.gsejournal.org/content/47/1/30){:target="_blank"} *Genetics Selection Evolution*. 47(30). DOI: 10.1186/s12711-015-0105-9.
