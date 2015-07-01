@@ -2,7 +2,7 @@
 title: Beissinger Lab
 email: timbeissinger@gmail.com
 description: > #  Website for the Beissinger Lab
-#baseurl: "/beissingerlab.github.io/" # the subpath of your site, e.g. /blog/
+#baseurl: "/beissingerlab.github.io" # the subpath of your site, e.g. /blog/
 url: "http://beissingerlab.github.io" # the base hostname & protocol for your site
 twitter_username: timbeissinger
 github_username: timbeissinger
