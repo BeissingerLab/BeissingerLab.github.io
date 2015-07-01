@@ -74,13 +74,14 @@
  * ============================================== */
     .footer {
         padding-bottom: 3em;
-        margin: auto;
+        /*margin: auto; */
         font-size: 12px;
         font-family: Open Sans;
         color: #959595;
 	height: 180px;
 	margin-top: -180px;
 	position: relative;
+	clear: both;
     }
 
     .footer img {
