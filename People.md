@@ -28,8 +28,9 @@ Kate is an expert in both lab and field. She is heavily involved in all of our d
 <br><br><br>
 
 
-----------------------------------------
+
 ### Interested in joining the lab?
+----------------------------------------
 We are a relatively new lab and expect to be expanding in the near future. If you are interested in joining the group for graduate school or a postdoc, feel free to email us.
 
 <br/>
