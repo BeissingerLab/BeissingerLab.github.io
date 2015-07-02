@@ -1,3 +1,6 @@
+# Beissinger Lab's website. 
+This website was created based on a theme developed by Camille Diez (http://diezcami.github.io/). Theme details and license are below. Thanks for the theme, Camille! 
+
 # Arctic Fox
 An open source minimal theme for Jekyll, ideal for blogging.
 
