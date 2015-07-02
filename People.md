@@ -5,7 +5,7 @@ permalink: /People/
 ---
 
 <div style="float: left; padding-right: 15px">
-    <a href="http://timbeissinger.github.io/img/IronMan.jpg"><img src="img/MGC2015.JPG" alt="Picture of me" title="Picture" width="200" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
+    <a href="http://timbeissinger.github.io/img/IronMan.jpg"><img src="img/Tim.jpg" alt="Picture of me" title="Picture" width="200" border="5" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
 
 Tim Beissinger is a postdoc in the Plant Sciences Department at UC Davis.  He is currently researching linked selection during maize domestication. This research includes assessing changes in the historical population size of maize and the selective pressures that it experienced.  Previously, Tim studied artificially selected maize populations, epistatic selection in chickens, strategies for genotying-by-sequencing, and he released a software package called GenWin that facilitates defining window boundaries for population-scale genomic analyses. Tim has also worked on QTL mapping, genome wide association studies, and whole-genome prediction. He is passionate about using population genetics, quantitative genetics, and statistics to understand and accelerate the evolution of domesticated species. Tim earned his PhD in Statistical and Quantitative Genetics and MS in Statistics from the University of Wisconsin, Madison.
