@@ -3,8 +3,7 @@ layout: page
 title: Research
 permalink: /Research/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+# UNDER CONSTRUCTION
+## Accelerating methods for plant improvement by utilizing evidence of past selection.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+## Understanding genetic interactions and their influence on complex traits.
