@@ -4,6 +4,9 @@ title: Research
 permalink: /Research/
 ---
 # UNDER CONSTRUCTION
+
 ## Accelerating methods for plant improvement by utilizing evidence of past selection.
 
 ## Understanding genetic interactions and their influence on complex traits.
+
+## Using replicated selected populations to map quantitative trait loci and gene-action.
