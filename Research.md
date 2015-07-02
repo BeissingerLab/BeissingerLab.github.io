@@ -18,7 +18,7 @@ permalink: /Research/
 <br/>
 <br/>
 
-## Using replicated selected populations to map quantitative trait loci and gene-action.
+## Using replicated selected populations to map quantitative trait loci and understand gene-action.
 
 <br/>
 <br/>
