@@ -5,6 +5,7 @@
         background-image: url("../img/field.jpg");
         position: relative;
         width: 100%;
+	max-width: 720px;
     }
 
     .site-header a {color: $brand-color};
