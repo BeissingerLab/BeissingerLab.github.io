@@ -5,7 +5,7 @@ permalink: /Software/
 ---
 
 <div style="float: right; padding-left: 15px">
-    <a><img src="/img/GenWin.jpg" alt="GenWin" title="GenWin" width="150" border="1"></a>
+    <a><img src="/img/GenWin.jpg" alt="GenWin" title="GenWin" width="300" border="1"></a>
 </div>
 
 
