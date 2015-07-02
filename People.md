@@ -15,6 +15,12 @@ permalink: /People/
 
 Tim is a research geneticist with the USDA-ARS Plant Genetics Research Unit. Before starting in Missouri, he received a PhD is statistical and quantitative genetics from the University of Wisconsin, Madison, followed by a postdoc at the University of California, Davis.
 
+<br><br><br>
+#Lab Members
+
+###Kate Guill, Biological Science Technician
+Kate is an expert in both lab and field. She is heavily involved in all of our data-generating endeavors.
+
 <br><br><br><br>
 
 ### Interested in joining the lab?
