@@ -6,9 +6,6 @@ An open source minimal theme for Jekyll, ideal for blogging.
 
 View the demo at http://diezcami.github.io/arctic-fox-theme
 
-## Contribute
-Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
-
 ## License
 The MIT License (MIT)
 
