@@ -7,6 +7,10 @@ url: "http://beissingerlab.github.io" # the base hostname & protocol for your si
 twitter_username: timbeissinger
 github_username: timbeissinger
 
+### content configuration ###
+favicon:     "/img/favicon.ico"
+touch_icon:  "/img/apple-icon-144x144.png"
+
 # Build settings
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
