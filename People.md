@@ -5,7 +5,7 @@ permalink: /People/
 ---
 
 
-#PI
+#Principal Investigator
 ----------------------------------------
 
 <div style="float: left; padding-right: 15px">
