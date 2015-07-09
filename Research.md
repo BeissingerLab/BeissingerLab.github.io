@@ -17,9 +17,9 @@ Biochemical analyses routinely demonstrate that genes interact in complex networ
 <br>
 
 ------------------
-<div style="float: left; padding-right: 15px">
+<div style="float: right; padding-left: 15px">
     <a href="http://beissingerlab.github.io/img/pastPresFuture.png"><img src="/img/pastPresFuture.png" title="Past Present Future" width="400" border="0"></a>
 </div>
 
 ## Genomic prediction
-We do this too.
+Techniques such as quantitative trait locus (QTL) mapping, Genome Wide Association Studies (GWAS), and genomic selection (a.k.a genomic prediction) all focus on relating genotypes and phenotypes is present-day populations. Conversely, selection-mapping and/or scans for selection focus on understanding loci that were historically important during past selection, without necessarily incorporating any phenotypic information. Therefore, results from selection mapping or other evolutionary studies represent independent information that may prove beneficial when incorporated into a genomic-prediction framework. We are working to develop and implement methods to accelerate plant (and animal) improvement by incorporating evidence of past selection into prediction models that emphasize present genotype-phenotype relationships to develop better populations in the future.
