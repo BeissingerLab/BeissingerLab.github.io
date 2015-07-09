@@ -28,7 +28,7 @@ Techniques such as quantitative trait locus (QTL) mapping, Genome Wide Associati
 
 ------------------------
 
-<div style="float: right; padding-left: 15px">
+<div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/geneAction.png"><img src="/img/geneAction.png" title="Gene Action" width="400" border="0"></a>
 </div>
 
