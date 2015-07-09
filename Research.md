@@ -28,8 +28,12 @@ Techniques such as quantitative trait locus (QTL) mapping, Genome Wide Associati
 
 ------------------------
 
+<div style="float: right; padding-left: 15px">
+    <a href="http://beissingerlab.github.io/img/geneAction.png"><img src="/img/geneAction.png" title="Gene Action" width="400" border="0"></a>
+</div>
+
 ## Response to selection
-Before the development of genomic selection, phenotypic selection was the primary technique implemented for improving plant and animal populations. Because of this, a multitude of selected maize and other crop populations exist that can be studied to gain a better understanding of how selection impacts the genetic makeup of populations. However, in crops most of these resources were selected with the primary goal of immediate plant improvement, and therefore they are not optimized for evolutionary studies. For instance, large population sizes, replication, and rapid LD-decay are three factors that are missing from many existing selected populations. We are beginning a new long-term selection study designed to facilitate down-stream genetic studies. Important details such as the trait we will select are still being determined (as of July 2015), so stay tuned for exciting updates! Down the road, we will use this population, when possible coupled with the existing resources mentioned, to do mapping, investigate gene action, evaluate effect sizes, and more.
+Before the development of genomic selection, phenotypic selection was the primary technique implemented for improving plant and animal populations. Because of this, a multitude of selected maize and other crop populations exist that can be studied to gain a better understanding of how selection impacts the genetic makeup of populations. However, in crops most of these resources were selected with the primary goal of immediate plant improvement, and therefore they are not optimized for evolutionary studies. For instance, large population sizes, replication, and rapid LD-decay are three factors that are missing from many existing selected populations. We are beginning a new long-term selection study designed to facilitate down-stream genetic studies. Important details such as the trait we will select are still being determined (as of July 2015), so stay tuned for exciting updates! Down the road, we will use this population, coupled with the existing resources previusly mentioned, to do mapping, investigate gene action, evaluate effect sizes, and generally improve the understanding of how crops such as maize respond to selection.
 
 <br>
 
