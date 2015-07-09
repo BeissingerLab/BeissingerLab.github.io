@@ -3,7 +3,6 @@ layout: page
 title: Research
 permalink: /Research/
 ---
-# THIS PORTION OF THE SITE IS UNDER CONSTRUCTION
 
 
 -------------------------------
