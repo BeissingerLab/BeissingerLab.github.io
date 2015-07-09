@@ -8,7 +8,7 @@ permalink: /Research/
 
 -------------------------------
 <div style="float: left; padding-right: 15px">
-    <a><img src="/img/Figure4C.jpg" title="Epistasis FIgure" width="150" border="0";"></a>
+    <a><img src="/img/Figure4C.jpg" title="Epistasis FIgure" width="150" border="0"></a>
 </div>
 
 ## The importance of epistasis
