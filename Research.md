@@ -25,7 +25,7 @@ Biochemical analyses routinely demonstrate that genes interact in complex networ
 Techniques such as quantitative trait locus (QTL) mapping, Genome Wide Association Studies (GWAS), and genomic selection (a.k.a genomic prediction) all focus on relating genotypes and phenotypes is present-day populations. Conversely, selection-mapping and/or scans for selection focus on identifying loci that were historically important during past selection, without necessarily incorporating any phenotypic information. Therefore, results from selection mapping and other evolutionary studies represent independent information that may prove beneficial when incorporated into a genomic-prediction framework. We are working to develop and implement methods to accelerate plant (and animal) improvement by incorporating evidence of **past selection** into prediction models that emphasize **present genotype-phenotype relationships** to develop **better populations in the future**.
 
 
-<br><br>
+<br>
 
 ------------------------
 ## More to come
