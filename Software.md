@@ -4,11 +4,9 @@ title: Software
 permalink: /Software/
 ---
 <head>
-...
     <script type="text/javascript"
             src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
-...
 </head>
 
 <div style="float: left; padding-right: 15px">
@@ -22,8 +20,8 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 
 [GenWin](http://cran.r-project.org/web/packages/GenWin/index.html){:target="_blank"} is available on CRAN, the Comprehensive R Archive Network.
 
-<br> <br>
-----
+<br>
+------------
 
 ### Useful Scripts
 [VectorFst.R](http://beissingerlab.github.io/docs/vectorFst.R) is a simple R function that can be used to calculate locus-by-locus \\(F_{ST}\\) values from allele frequency data. Basic documentation is included in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
