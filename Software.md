@@ -19,4 +19,4 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 ----
 
 ### Useful Scripts
-[VectorFst.R](http://beissingerlab.github.io/docs/vectorFst.R) is a simple R function that can be used to calculate locus-by-locus F~ST~ values from allele frequency data. Basic documentation is included in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
+[VectorFst.R](http://beissingerlab.github.io/docs/vectorFst.R) is a simple R function that can be used to calculate locus-by-locus \\(F_{ST}\\) values from allele frequency data. Basic documentation is included in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
