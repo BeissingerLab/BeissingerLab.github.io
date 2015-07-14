@@ -3,6 +3,13 @@ layout: page
 title: Software
 permalink: /Software/
 ---
+<head>
+...
+    <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+...
+</head>
 
 <div style="float: left; padding-right: 15px">
     <a><img src="/img/GenWin.jpg" alt="GenWin" title="GenWin" width="250" border="1"></a>
