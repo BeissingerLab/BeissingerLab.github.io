@@ -1,5 +1,5 @@
 ################################################################################
-### Here I write a function that will calculate Fst over two or three        ###
+### This is a function that will calculate Fst over two or three             ###
 ### populations.  The inputs are vectors of allele frequencies at each locus ###
 ### for each population.  The function is explained in the documentation     ###
 ### below.                                                                   ###
