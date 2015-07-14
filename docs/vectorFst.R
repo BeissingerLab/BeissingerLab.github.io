@@ -1,0 +1,51 @@
+################################################################################
+### Here I write a function that will calculate Fst over two or three        ###
+### populations.  The inputs are vectors of allele frequencies at each locus ###
+### for each population.  The function is explained in the documentation     ###
+### below.                                                                   ###
+################################################################################
+
+### Timothy M Beissinger
+### 4-30-2012
+
+
+### The function below will calculate Fst.  Inputs are as follows:
+    ### pop1Freqs: Vector of allele frequencies for each locus in pop1
+    ### pop2Freqs: Vector of allele frequencies for each locus in pop2
+    ### pop3Freqs: Vector of allele frequencies for each locus in pop3, if there
+    ###            is a pop3.  If not, leave blank.
+    ### simple:    Should the simplest formula for Fst be used?  If T, the
+    ###            formula used is Fst = s^2 / (mean(p) * (1- mean(p)) .
+    ###            if false, a better formula which corrects for small number
+    ###            of populations is used: Weir and Cockerham, 1984
+
+vectorFst <- function(pop1Freqs,pop2Freqs,pop3Freqs=NULL,simple=F){
+  if(simple==T){
+    if(is.null(pop3Freqs)){
+      mean <- (pop1Freqs+pop2Freqs) / 2
+      var <- (pop1Freqs-mean)^2 + (pop2Freqs-mean)^2
+      Fst <- var / (mean*(1-mean))
+    }
+    else {
+      mean <- (pop1Freqs+pop2Freqs+pop3Freqs) / 3
+      var <- ( (pop1Freqs-mean)^2 + (pop2Freqs-mean)^2 + (pop3Freqs-mean)^2 ) /2
+      Fst <- var / (mean*(1-mean))
+    }
+  }
+  else if(simple==F){
+    if(is.null(pop3Freqs)){
+      mean <- (pop1Freqs+pop2Freqs) / 2
+      var <- (pop1Freqs-mean)^2 + (pop2Freqs-mean)^2
+      Fst <- var / {(mean*(1-mean)) + var/2}
+    }
+    else {
+      mean <- (pop1Freqs+pop2Freqs+pop3Freqs) / 3
+      var <- ( (pop1Freqs-mean)^2 + (pop2Freqs-mean)^2 + (pop3Freqs-mean)^2 ) /2
+      Fst <- var / { (mean*(1-mean)) +var / 3}
+    }
+  }
+  return(Fst)
+}
+
+
+### References: Weir and Cockerham, 1984, Estimating F-statistics for the analysis of population structure. Evoluation 38(6): 1358-1370.
