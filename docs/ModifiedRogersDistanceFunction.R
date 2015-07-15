@@ -1,0 +1,58 @@
+
+#### Modified Rogers Distance
+### This function returns an object of class dist.  Turn it into a matrix with the as.matrix function.
+### Input should be a matrix of genotypes with individuals in rows and markers in columns.
+### Each marker should be represented with two columns, one per allele, of 0's, 1's or 2's.
+
+### Author: Timothy Beissinger
+### 10-18-2011
+
+ModRog<-function(df,loci,diag=FALSE,upper=FALSE,method="Modified Rogers"){
+
+mat <- as.matrix(df)
+d <- matrix(0,nrow(mat),nrow(mat))
+d.names <- row.names(df)
+nlig <- nrow(df)
+
+index <- cbind(col(d)[col(d) < row(d)], row(d)[col(d) < row(d)])
+
+modrog <- function(x){
+  p<-mat[x[1],]
+  q<-mat[x[2],]
+  D = (1/sqrt(2*loci))*sqrt(sum((p-q)^2))
+  return(D)
+}
+
+d<-unlist(apply(index,1,modrog))
+
+attr(d,"Size") <- nlig
+attr(d,"Labels") <-  d.names
+attr(d, "Diag") <- diag
+attr(d, "Upper") <- upper
+attr(d,"method") <- method
+attr(d, "call") <- match.call()
+class(d) <- "dist"
+return(d)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
