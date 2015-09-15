@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab News
+title: News
 permalink: /News/
 ---
 
