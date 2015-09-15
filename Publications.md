@@ -5,11 +5,8 @@ permalink: /Publications/
 ---
 
 
-<<<<<<< HEAD
+
 **Beissinger, T.M.**, Gholami, M., Erbe, M., Weigend, S., Weigend, A., de Leon, N., Gianola, D., Simianer, H. 2015. [Using the variability of linkage disequilibrium between subpopulations to infer sweeps and epistatic selection in a diverse panel of chickens.](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html) *In press*.
-=======
-**Beissinger, T.M.**, Gholami, M., Erbe, M., Weigend, S., Weigend, A., de Leon, N., Gianola, D., Simianer, H. 2015. Using the variability of linkage disequilibrium between subpopulations to infer sweeps and epistatic selection in a diverse panel of chickens. *In press*.
->>>>>>> 0a97fbf077c896a84a0c09a4bb5944ffe17420fc
 
 Haase, N.J., **Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C.R., Kaeppler, S., de Leon, N. 2015. [Genetic Dissection of quantita- tive traits using a bulked segregant analysis (BSA)-sequencing method on a large segregating population of maize.](http://www.g3journal.org/content/early/2015/06/01/g3.115.017665.abstract){:target="_blank"} DOI: 10.1534/g3.115.017665.
 
