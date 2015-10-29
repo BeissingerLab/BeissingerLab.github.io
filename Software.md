@@ -25,6 +25,9 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 -----------------------------------------
 
 ### Useful Scripts
+[DriftSimulator.R](http://beissingerlab.github.io/docs/DriftSimulator.R) is an R function for conducting simulations of genetic drift at a single locus. Initial frequency, number of generations, and population demographics can all be manipulated, and plotting is simple. Documentation is in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
+
+[DriftSimulatorWithBottlenecks.R](http://beissingerlab.github.io/docs/DriftSimulatorWithBottlenecks.R) is very similar to the above R function for conducting simulations of genetic drift at a single locus, but also enables the user to specify a bottleneck event. Documentation is in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
 
 [VectorFst.R](http://beissingerlab.github.io/docs/vectorFst.R) is a simple R function that can be used to calculate locus-by-locus \\(F_{ST}\\) values from allele frequency data. Basic documentation is included in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
 
