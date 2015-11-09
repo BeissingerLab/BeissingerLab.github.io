@@ -19,7 +19,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 No DETOX -- Thanksgiving
 
 ### Thursday, November 19, 2015
-[Monnahan et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005201:target="_blank"} Epistasis Is a Major Determinant of the Additive Genetic Variance in *Mimulus guttatus*
+[Monnahan et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005201){:target="_blank"} Epistasis Is a Major Determinant of the Additive Genetic Variance in *Mimulus guttatus*
 
 ### Thursday, November 12, 2015
 [Mikheyev et al., 2015](http://www.nature.com/ncomms/2015/150806/ncomms8991/pdf/ncomms8991.pdf){:target="_blank"} Museum samples reveal rapid evolution by wild honey bees exposed to a novel parasite
