@@ -15,6 +15,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
 ### November 2015
+ 
 
 #### Thursday, November 26, 2015
 No DETOX -- Thanksgiving
