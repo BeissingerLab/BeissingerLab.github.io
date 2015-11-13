@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 ##Preprints
-**Beissinger, T.M.**, Wang, L., Crosby, K., Durvasula, A., Hufford, M.B., Ross-Ibarra, J. [Recent demography drives changes in linked selection across the maize genome](http://biorxiv.org/content/early/2015/11/13/031666){:target="_blank"} bioRxiv.
+**Beissinger, T.M.**, Wang, L., Crosby, K., Durvasula, A., Hufford, M.B., Ross-Ibarra, J. [Recent demography drives changes in linked selection across the maize genome.](http://biorxiv.org/content/early/2015/11/13/031666){:target="_blank"} bioRxiv.
 
 
 ##2015
