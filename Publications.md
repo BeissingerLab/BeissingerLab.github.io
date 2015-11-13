@@ -4,7 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
+##Preprints
+**Beissinger, T.M.**, Wang, L., Crosby, K., Durvasula, A., Hufford, M.B., Ross-Ibarra, J. [Recent demography drives changes in linked selection across the maize genome](http://biorxiv.org/content/early/2015/11/13/031666){:target="_blank"} bioRxiv.
 
+##Peer-reviewed
 
 **Beissinger, T.M.**, Gholami, M., Erbe, M., Weigend, S., Weigend, A., de Leon, N., Gianola, D., Simianer, H. 2015. [Using the variability of linkage disequilibrium between subpopulations to infer sweeps and epistatic selection in a diverse panel of chickens.](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} Heredity.  DOI: 10.1038/hdy.2015.81.
 
