@@ -20,7 +20,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 #### Thursday, November 26, 2015
 No DETOX -- Thanksgiving
 
-#### Thursday, November 19, 2015 **5pm Start**
+#### Thursday, November 19, 2015 (***5pm Start***)
 [Monnahan et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005201){:target="_blank"} Epistasis Is a Major Determinant of the Additive Genetic Variance in *Mimulus guttatus*
 
 #### Thursday, November 12, 2015
