@@ -13,6 +13,15 @@ We meet on **Thursday afternoons at 4:30** at the [Craft Beer Cellar](http://www
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
+### December 2015
+#### Thursday, December 17, 2015
+TBD
+
+#### Thursday, December 10, 2015
+TBD
+
+#### Thursday, December 3, 2015
+[Lamichhaney et al.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3430.html){:target="_blank"} Structural genomic changes underlie alternative reproductive strategies in the ruff (*Philomachus pugnax*)
 
 ### November 2015
  
