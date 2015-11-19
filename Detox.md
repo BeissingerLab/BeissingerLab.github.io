@@ -14,6 +14,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
 ### December 2015
+
 #### Thursday, December 17, 2015
 TBD
 
