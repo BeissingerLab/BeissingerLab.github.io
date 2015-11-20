@@ -4,6 +4,9 @@ title: News
 permalink: /News/
 ---
 
+### November 20, 2015
+Division of Plant Sciences Seminar: The implications of ancient selection and demography for future improvement of maize
+
 
 ### September 15, 2015
 Tim arrives in Columbia, Missouri.
