@@ -15,11 +15,12 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### December 2015
 
-#### Thursday, December 17, 2015
-TBD
+
+#### Thursday, December 17, 201
+[Sellis et al.](http://biorxiv.org/content/early/2015/12/02/033563) Empirical evidence for heterozygote advantage in adapting diploid populations of Saccharomyces cerevisiae
 
 #### Thursday, December 10, 2015
-TBD
+[Exome Aggregation Consortium et al.](http://biorxiv.org/content/early/2015/10/30/030338) Analysis of protein-coding genetic variation in 60,706 humans
 
 #### Thursday, December 3, 2015
 [Lamichhaney et al.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3430.html){:target="_blank"} Structural genomic changes underlie alternative reproductive strategies in the ruff (*Philomachus pugnax*)
