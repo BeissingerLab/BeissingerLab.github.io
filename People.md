@@ -25,6 +25,15 @@ Tim is a research geneticist with the USDA-ARS Plant Genetics Research Unit at t
 ###Kate Guill, Biological Science Technician
 Kate is an expert in both lab and field. She is heavily involved in all of our data-generating endeavors.
 
+<br>
+
+<div style="float: right; padding-left: 15px">
+    <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
+</div>
+
+
+###Alex Gregory, Undergraduate Researcher 
+
 <br><br><br>
 
 
