@@ -9,7 +9,7 @@ permalink: /People/
 ----------------------------------------
 
 <div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/IronMan.jpg"><img src="/img/Tim.jpg" alt="Tim Beissinger" title="Picture" width="150" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
+    <a href="http://beissingerlab.github.io/img/IronMan.jpg"><img src="/img/Tim.jpg" alt="Tim Beissinger" title="Picture" width="100" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);"></a>
 </div>
 
 ####Tim Beissinger <a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en" target="_blank"><img src="/img/scholar.png" style="width: 23px;"></a> <a href="/docs/tbeissingerCV_publish.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a> <a href="https://twitter.com/timbeissinger" target="_blank"><img src="/img/Twitter_logo_blue.png" style="width: 23px; border=10 px"></a>
@@ -28,7 +28,7 @@ Kate is an expert in both lab and field. She leads all of our data-generating en
 <br>
 
 <div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
+    <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="100" border="0"></a>
 </div>
 
 
@@ -44,7 +44,7 @@ Alex is conducting simulations of directional selection under several models of 
 
 ### Interested in joining the lab?
 ----------------------------------------
-We are a relatively new lab and expect to be expanding in the near future. If you are interested in joining the group for graduate school or a postdoc, feel free to email us.
+We are a relatively new lab and expect to be expanding in the near future. If you are interested in joining the group for graduate school or a postdoc, feel free to email.
 
 <br/>
 <br/>
