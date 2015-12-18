@@ -5,7 +5,7 @@ permalink: /People/
 ---
 
 
-#Principal Investigator
+##Principal Investigator
 ----------------------------------------
 
 <div style="float: left; padding-right: 15px">
@@ -19,13 +19,15 @@ Tim is a research geneticist with the USDA-ARS Plant Genetics Research Unit at t
 
 <br><br><br>
 
-#Lab Members
+##Lab Manager
 ----------------------------------------
 
 ####Kate Guill, Biological Science Technician
 Kate is an expert in both lab and field. She leads all of our data-generating endeavors.
 
 <br>
+
+##Lab Members
 
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="100" border="0"></a>
