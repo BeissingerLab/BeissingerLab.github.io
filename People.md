@@ -23,7 +23,7 @@ Tim is a research geneticist with the USDA-ARS Plant Genetics Research Unit at t
 ----------------------------------------
 
 ###Kate Guill, Biological Science Technician
-Kate is an expert in both lab and field. She is heavily involved in all of our data-generating endeavors.
+Kate is an expert in both lab and field. She leads all of our data-generating endeavors.
 
 <br>
 
