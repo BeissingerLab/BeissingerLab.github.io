@@ -27,7 +27,7 @@ Kate is an expert in both lab and field. She is heavily involved in all of our d
 
 <br>
 
-<div style="float: right; padding-left: 15px">
+<div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
 </div>
 
