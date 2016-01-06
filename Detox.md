@@ -8,7 +8,7 @@ Each week, the DETOX group meets to discuss the latest papers in evolutionary ge
 
 Regular attendance isn't mandatory, just come when you can and/or when the paper interests you. Attendees do not need to be members or affiliates of the Beissinger Lab, just scientists at any stage of their careers who are interested in the topics and papers we'll discuss.
 
-We meet on **Thursday afternoons at 4:30** at the [Craft Beer Cellar](http://www.craftbeercellar.com/columbia/){:target="_blank"}, in Downtown Columbia. If you'd like email reminders, ask Tim (beissingert(at)missouri.edu)to add you to the email list.
+We meet on **Thursday afternoons at 4:30** at the [Craft Beer Cellar](http://www.craftbeercellar.com/columbia/){:target="_blank"}, in Downtown Columbia. If you'd like email reminders, ask Tim (beissingert-at-missouri.edu)to add you to the email list.
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
