@@ -19,7 +19,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 [Marsden et al.](http://www.pnas.org/content/113/1/152.abstract) Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs
 
 #### Thursday, January 14, 2016
-[Henn, et al.](http://www.pnas.org/content/early/2015/12/22/1510805112.abstract)Distance from sub-Saharan Africa predicts mutational load in diverse human genomes
+[Henn, et al.](http://www.pnas.org/content/early/2015/12/22/1510805112.abstract) Distance from sub-Saharan Africa predicts mutational load in diverse human genomes
 
 #### Thursday, January 7, 2016
 No Detox -- Winter Holiday
