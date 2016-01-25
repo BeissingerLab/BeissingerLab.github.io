@@ -16,6 +16,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ## NOTICE: We have moved to 5pm to accomodate those who coudn't make the earlier time.
 
 
+
 ### January 2016
 
 #### Thursday, January 28
