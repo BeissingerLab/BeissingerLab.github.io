@@ -8,12 +8,18 @@ Each week, the DETOX group meets to discuss the latest papers in evolutionary ge
 
 Regular attendance isn't mandatory, just come when you can and/or when the paper interests you. Attendees do not need to be members or affiliates of the Beissinger Lab, just scientists at any stage of their careers who are interested in the topics and papers we'll discuss.
 
-We meet on **Thursday afternoons at 4:30** at the [Craft Beer Cellar](http://www.craftbeercellar.com/columbia/){:target="_blank"}, in Downtown Columbia. If you'd like email reminders, ask Tim (beissingert-at-missouri.edu)to add you to the email list.
+We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://www.craftbeercellar.com/columbia/){:target="_blank"}, in Downtown Columbia. If you'd like email reminders, ask Tim (beissingert-at-missouri.edu)to add you to the email list.
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
+## NOTICE: We have moved to 5pm to accomodate those who coudn't make the earlier time. Still Thursdays.
+
 ### January 2016
+
+#### Thursday, January 28
+[Decker et al.](http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-606) A novel analytical method, Birth Date Selection Mapping, detects response of the Angus (*Bos taurus*) genome to selection on complex traits
+
 
 #### Thursday, January 21, 2016
 [Marsden et al.](http://www.pnas.org/content/113/1/152.abstract) Bottlenecks and selective sweeps during domestication have increased deleterious genetic variation in dogs
