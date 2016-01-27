@@ -13,8 +13,6 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
-## NOTICE: We have moved to 5pm to accomodate those who coudn't make the earlier time.
-
 
 ### February 2016
 
