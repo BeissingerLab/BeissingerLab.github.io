@@ -16,6 +16,22 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ## NOTICE: We have moved to 5pm to accomodate those who coudn't make the earlier time.
 
 
+### February 2016
+
+#### Thursday, February 25, 2016
+TBD
+
+
+#### Thursday, February 18, 2016
+TBD
+
+
+#### Thursday, February 11, 2016
+TBD
+
+
+#### Thursday, February 4, 2016
+[Rausher and Delph](http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/epdf) Commentary: When does understandingphenotypic evolution require identiﬁcationof the underlying genes?
 
 ### January 2016
 
