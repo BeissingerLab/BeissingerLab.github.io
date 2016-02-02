@@ -25,11 +25,11 @@ TBD
 
 
 #### Thursday, February 11, 2016
-TBD
+[Cubillos et al.](http://genetics.org/content/genetics/195/3/1141.full.pdf) High-Resolution Mapping of Complex Traits with a Four-Parent Advanced Intercross Yeast Population
 
 
 #### Thursday, February 4, 2016
-[Rausher and Delph](http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/epdf) Commentary: When does understandingphenotypic evolution require identiﬁcationof the underlying genes?
+[Rausher and Delph](http://onlinelibrary.wiley.com/doi/10.1111/evo.12687/epdf) Commentary: When does understanding phenotypic evolution require identiﬁcationof the underlying genes?
 
 ### January 2016
 
