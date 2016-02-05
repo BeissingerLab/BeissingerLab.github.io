@@ -21,7 +21,7 @@ TBD
 
 
 #### Thursday, February 18, 2016
-TBD
+[Davies et al.](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16931.html) Re-engineering the zinc fingers of PRDM9 reverses hybrid sterility in mice
 
 
 #### Thursday, February 11, 2016
