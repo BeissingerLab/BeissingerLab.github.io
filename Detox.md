@@ -25,7 +25,7 @@ TBD
 
 
 #### Thursday, February 11, 2016
-[Cubillos et al.](http://genetics.org/content/genetics/195/3/1141.full.pdf) High-Resolution Mapping of Complex Traits with a Four-Parent Advanced Intercross Yeast Population
+[Cubillos et al.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3813843/pdf/1141.pdf) High-Resolution Mapping of Complex Traits with a Four-Parent Advanced Intercross Yeast Population
 
 
 #### Thursday, February 4, 2016
