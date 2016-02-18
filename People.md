@@ -5,7 +5,7 @@ permalink: /People/
 ---
 
 
-##Principal Investigator
+## Principal Investigator
 ----------------------------------------
 
 <div style="float: left; padding-right: 15px">
@@ -19,16 +19,16 @@ Tim is a research geneticist with the USDA-ARS and an adjunct assistant professo
 
 <br><br><br>
 
-##Lab Manager
+## Lab Manager
 ----------------------------------------
 
-####Kate Guill, Biological Science Technician
+#### Kate Guill, Biological Science Technician
 
 Kate is an expert in both lab and field. She leads all of our data-generating endeavors.
 
 <br>
 
-##Lab Members
+## Lab Members
 ----------------------------------------
 
 <div style="float: left; padding-right: 15px">
@@ -36,7 +36,7 @@ Kate is an expert in both lab and field. She leads all of our data-generating en
 </div>
 
 
-####Alex Gregory, Undergraduate Researcher
+#### Alex Gregory, Undergraduate Researcher
 
 Alex is conducting simulations of directional selection under several models of different genetic control. He's majoring in Biology at Mizzou.
 
@@ -49,7 +49,7 @@ Alex is conducting simulations of directional selection under several models of 
 
 ### Interested in joining the lab?
 ----------------------------------------
-We are a relatively new lab and expect to be expanding in the near future. If you are interested in joining the group for graduate school or a postdoc, feel free to email.
+We expect to be expanding in the near future. If you are interested in joining the group for graduate school, a postdoc, or for undergraduate research experience, feel free to email.
 
 <br/>
 <br/>
