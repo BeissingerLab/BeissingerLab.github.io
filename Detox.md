@@ -17,7 +17,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### February 2016
 
 #### Thursday, February 25, 2016
-TBD
+[Swinnen et al.](http://www.cell.com/trends/plant-science/abstract/S1360-1385(16)00029-7?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1360138516000297%3Fshowall%3Dtrue) Lessons from Domestication: Targeting Cis-Regulatory Elements for Crop Improvement
 
 
 #### Thursday, February 18, 2016
