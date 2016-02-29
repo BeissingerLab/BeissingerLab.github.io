@@ -14,6 +14,23 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
 
+### March 2016
+
+#### Thursday, March 31, 2016
+TBD
+
+#### Thursday, March 24, 2016
+TBD
+
+#### Thursday, March 17, 2016
+TBD
+
+#### Thursday, March 10, 2016
+TBD
+
+#### Thursday, March 3, 2016
+[MacLeod et al.](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2443-6) Exploiting biological priors and sequence variants enhances QTL discovery and genomic prediction of complex traits
+
 ### February 2016
 
 #### Thursday, February 25, 2016
