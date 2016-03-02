@@ -27,7 +27,6 @@ TBD
 
 #### Thursday, March 10, 2016
 [Huang et al.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465439/pdf/pnas.201213423.pdf) Epistasis dominates the genetic architecture of Drosophila quantitative traits
-
 *Requested by Libby*
 
 #### Thursday, March 3, 2016
