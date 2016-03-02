@@ -26,8 +26,8 @@ TBD
 TBD
 
 #### Thursday, March 10, 2016
-[Huang et al.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465439/pdf/pnas.201213423.pdf) Epistasis dominates the genetic architecture of Drosophila quantitative traits \n
-* Requested by Libby
+[Huang et al.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465439/pdf/pnas.201213423.pdf) Epistasis dominates the genetic architecture of Drosophila quantitative traits
+* **Requested by Libby**
 
 #### Thursday, March 3, 2016
 [MacLeod et al.](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2443-6) Exploiting biological priors and sequence variants enhances QTL discovery and genomic prediction of complex traits
