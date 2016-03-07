@@ -24,6 +24,19 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 
 -----------------------------------------
 
+<div style="float: left; padding-right: 15px">
+    <a><img src="/img/Figure4C.jpg" alt="D'2_IS" title="D'2_IS" width="250" border="1"></a>
+</div>
+
+
+### Ohta.D.Stats
+
+This R function can be implemented to calculate Tomoko Ohta's partitioning on linkage disequilibrium, deemed D-statistics, for pairs of loci. The code is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [2015 Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this function in action.
+
+<br>
+
+-----------------------------------------
+
 ### Useful Scripts
 [DriftSimulator.R](http://beissingerlab.github.io/docs/DriftSimulator.R) is an R function for conducting simulations of genetic drift at a single locus. Initial frequency, number of generations, and population demographics can all be manipulated, and plotting is simple. Documentation is in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
 
