@@ -23,7 +23,6 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 <br>
 
 -----------------------------------------
-<br>
 <div style="float: left; padding-right: 15px; padding-top: 15px">
     <a><img src="/img/Figure4C.jpg" alt="D'2_IS" title="D'2_IS" width="250" border="1"></a>
 </div>
