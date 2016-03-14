@@ -23,7 +23,7 @@ TBD
 TBD
 
 #### Thursday, March 17, 2016
-TBD
+[Lamichhaney et al.](http://www.pnas.org/content/109/47/19345.full) Population-scale sequencing reveals genetic differentiation due to local adaptation in Atlantic herring
 
 #### Thursday, March 10, 2016 ( *Requested by Libby* )
 [Huang et al.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3465439/pdf/pnas.201213423.pdf) Epistasis dominates the genetic architecture of Drosophila quantitative traits 
