@@ -20,7 +20,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 TBD
 
 #### Thursday, March 24, 2016
-TBD
+[Zhang et al.](http://gbe.oxfordjournals.org/content/early/2016/02/22/gbe.evw032.full.pdf+html) Genome Resequencing Identifies Unique Adaptations of Tibetan Chickens to Hypoxia and High-dose Ultraviolet Radiation in High-altitude Environments 
 
 #### Thursday, March 17, 2016
 [Lamichhaney et al.](http://www.pnas.org/content/109/47/19345.full) Population-scale sequencing reveals genetic differentiation due to local adaptation in Atlantic herring
