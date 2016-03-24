@@ -17,7 +17,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### March 2016
 
 #### Thursday, March 31, 2016
-TBD
+[Pavlidis et al.](http://mbe.oxfordjournals.org/content/early/2012/07/12/molbev.mss136.full) A Critical Assessment of Storytelling: Gene Ontology Categories and the Importance of Validating Genomic Scans
 
 #### Thursday, March 24, 2016
 [Zhang et al.](http://gbe.oxfordjournals.org/content/early/2016/02/22/gbe.evw032.full.pdf+html) Genome Resequencing Identifies Unique Adaptations of Tibetan Chickens to Hypoxia and High-dose Ultraviolet Radiation in High-altitude Environments 
