@@ -13,6 +13,16 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
+### April 2016
+
+#### Thursday, April 28, 2016
+
+#### Thursday, April 21, 2016
+
+#### Thursday, April 14, 2016
+
+#### Thursday, April 7, 2016
+[Sheehan and Song](http://biorxiv.org/content/early/2015/10/02/028175) Deep learning for population genetic inference
 
 ### March 2016
 
