@@ -29,7 +29,7 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 
 
 ### Ohta.D.Stats
-The [Ohta.D.Stats](http://beissingerlab.github.io/docs/Ohta.D.Stats.R) R function can be implemented to calculate Tomoko Ohta's partitioning on linkage disequilibrium, deemed D-statistics, for pairs of loci. The code is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this function in action.
+The [Ohta.D.Stats](http://beissingerlab.github.io/docs/Ohta.D.Stats.R) R function can be implemented to calculate Tomoko Ohta's partitioning of linkage disequilibrium, deemed D-statistics, for pairs of loci. The code is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this function in action.
 
 <br>
 <br>
