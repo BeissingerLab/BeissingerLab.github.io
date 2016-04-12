@@ -19,10 +19,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 TBD
 
 #### Thursday, April 21, 2016
-TBD
+[Allaby et al.](http://www.la-press.com/surprisingly-low-limits-of-selection-in-plant-domestication-article-a5511) Surprisingly low limits of selection in plant domestication
 
 #### Thursday, April 14, 2016
-TBD
+[Boitard et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005877) Inferring Population Size History from Large Samples of Genome-Wide Molecular Data - An Approximate Bayesian Computation Approach
 
 #### Thursday, April 7, 2016
 [Sheehan and Song](http://biorxiv.org/content/early/2015/10/02/028175) Deep learning for population genetic inference
