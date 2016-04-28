@@ -16,7 +16,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### April 2016
 
 #### Thursday, April 28, 2016
-TBD
+[Wang et al.](http://www.nature.com/cr/journal/vaop/ncurrent/full/cr201644a.html) Positive selection rather than relaxation of functional constraint drives the evolution of vision during chicken domestication
 
 #### Thursday, April 21, 2016
 [Allaby et al.](http://www.la-press.com/surprisingly-low-limits-of-selection-in-plant-domestication-article-a5511) Surprisingly low limits of selection in plant domestication
