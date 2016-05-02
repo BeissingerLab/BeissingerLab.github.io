@@ -12,6 +12,20 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### May 2016
+
+#### Thursday, May 26, 2016
+TBD
+
+#### Thursday, May 19, 2016
+TBD
+
+#### Thursday, May 12, 2016
+TBD
+
+#### Thursday, May 5, 2016
+[McManus et al.](http://biorxiv.org/content/early/2016/04/25/050096.abstract) Population Genetic Analysis of the DARC Locus (Duffy) Reveals Adaptation from Standing Variation Associated with Malaria Resistance in Humans
+
 
 ### April 2016
 
