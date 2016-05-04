@@ -21,7 +21,8 @@ TBD
 TBD
 
 #### Thursday, May 12, 2016
-TBD
+[Barrett and Hoekstra](http://www.nature.com/nrg/journal/v12/n11/full/nrg3015.html) 
+Molecular spandrels: tests of adaptation at the genetic level
 
 #### Thursday, May 5, 2016
 [McManus et al.](http://biorxiv.org/content/early/2016/04/25/050096.abstract) Population Genetic Analysis of the DARC Locus (Duffy) Reveals Adaptation from Standing Variation Associated with Malaria Resistance in Humans
