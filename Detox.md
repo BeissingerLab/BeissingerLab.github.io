@@ -15,7 +15,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### May 2016
 
 #### Thursday, May 26, 2016
-[Gallaher et al.][(http://www.plantcell.org/content/27/9/2335.short) Chlamydomonas Genome Resource for Laboratory Strains Reveals a Mosaic of Sequence Variation, Identifies True Strain Histories, and Enables Strain-Specific Studies
+[Gallaher et al.](http://www.plantcell.org/content/27/9/2335.short) Chlamydomonas Genome Resource for Laboratory Strains Reveals a Mosaic of Sequence Variation, Identifies True Strain Histories, and Enables Strain-Specific Studies
 
 #### Thursday, May 19, 2016
 [Field et al.](http://biorxiv.org/content/early/2016/05/07/052084.abstract) Detection of human adaptation during the past 2,000 years
