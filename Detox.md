@@ -138,3 +138,37 @@ No DETOX -- Thanksgiving
 [Mikheyev et al., 2015](http://www.nature.com/ncomms/2015/150806/ncomms8991/pdf/ncomms8991.pdf){:target="_blank"} Museum samples reveal rapid evolution by wild honey bees exposed to a novel parasite
 
 
+
+
+<!---
+Up next:
+
+[Merotto et al.](http://onlinelibrary.wiley.com/doi/10.1111/eva.12387/abstract#.V1g4vNOdufg.twitter) Evolutionary and social consequences of introgression of NON-transgenic herbicide resistance from rice to weedy rice in Brazil
+
+Identification of a gene for temperature sex determination (Not something I study- but I thought it looks cool)
+http://www.genetics.org/content/203/1/557
+
+Linked selective sweeps & pop gen:
+http://biorxiv.org/content/early/2016/04/05/047019
+
+Genomics in Darwin’s finches:
+http://science.sciencemag.org/content/352/6284/470
+
+Review on the repeatability of evolution:
+http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract
+
+Gene flow & parallel genomic changes in lampreys:
+http://onlinelibrary.wiley.com/doi/10.1111/mec.13664/abstract
+
+Gene duplication in mammals from Pritchard’s group:
+http://science.sciencemag.org/content/352/6288/1009.full
+
+Boyko paper on size in dogs (I’ve read this but I think Makenzie should read it):
+http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000451
+
+G3 - improving genomic selection by accounting for LD in switchgrass
+http://g3journal.org/content/6/4/1049.abstract
+
+
+
+-->
