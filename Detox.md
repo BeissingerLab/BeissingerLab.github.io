@@ -13,16 +13,17 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### June 2016
-#### Tursday, June 30, 2016
+
+#### Thursday, June 30, 2016
 [Mitteroecker et al.](http://www.genetics.org/content/202/4/1345) Multivariate Analysis of Genotype–Phenotype Association
 
-#### Tursday, June 23, 2016
+#### Thursday, June 23, 2016
 [Tian et al.](http://www.genetics.org/content/202/4/1563) The Dissection of Expression Quantitative Trait Locus Hotspots
 
-#### Tursday, June 16, 2016
+#### Thursday, June 16, 2016
 [Sadhu et al.](http://science.sciencemag.org/content/early/2016/05/04/science.aaf5124.full.pdf+html) CRISPR-directed mitotic recombination enables genetic mapping without crosses
 
-#### Tursday, June 9, 2016
+#### Thursday, June 9, 2016
 [Dittmar et al.](http://rspb.royalsocietypublishing.org/content/283/1828/20153065) Factors influencing the effect size distribution of adaptive substitutions
 
 #### Thursday, June 2, 2016
