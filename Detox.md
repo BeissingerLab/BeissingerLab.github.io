@@ -14,16 +14,16 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### June 2016
 #### Tursday, June 30, 2016
-TBD
+[Mitteroecker et al.](http://www.genetics.org/content/202/4/1345) Multivariate Analysis of Genotype–Phenotype Association
 
 #### Tursday, June 23, 2016
-TBD
+[Tian et al.](http://www.genetics.org/content/202/4/1563) The Dissection of Expression Quantitative Trait Locus Hotspots
 
 #### Tursday, June 16, 2016
-TBD
+[Sadhu et al.](http://science.sciencemag.org/content/early/2016/05/04/science.aaf5124.full.pdf+html) CRISPR-directed mitotic recombination enables genetic mapping without crosses
 
 #### Tursday, June 9, 2016
-TBD
+[Dittmar et al.](http://rspb.royalsocietypublishing.org/content/283/1828/20153065) Factors influencing the effect size distribution of adaptive substitutions
 
 #### Thursday, June 2, 2016
 [Gallaher et al.](http://www.plantcell.org/content/27/9/2335.short) Chlamydomonas Genome Resource for Laboratory Strains Reveals a Mosaic of Sequence Variation, Identifies True Strain Histories, and Enables Strain-Specific Studies
