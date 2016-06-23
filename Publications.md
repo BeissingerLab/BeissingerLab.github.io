@@ -12,7 +12,7 @@ permalink: /Publications/
 
 Morota, G, **Beissinger, T.M.**, Penagaricano, F. [MeSH annotation of the chicken genome: 2 MeSH-informed enrichment analysis and 3 MeSH-guided semantic similarity among 4 functional terms and gene products](http://biorxiv.org/content/early/2015/12/20/034975){:target="_blank"} *Genes Genomes Genetics*. Accepted.
 
-**Beissinger, T.M.**, Wang, L., Crosby, K., Durvasula, A., Hufford, M.B., Ross-Ibarra, J. 2016. [Recent demography drives changes in linked selection across the maize genome.](http://biorxiv.org/content/early/2015/11/13/031666){:target="_blank"} *Nature Plants*. Accepted.
+**Beissinger, T.M.**, Wang, L., Crosby, K., Durvasula, A., Hufford, M.B., Ross-Ibarra, J. 2016. [Recent demography drives changes in linked selection across the maize genome.](http://beissingerlab.github.io/docs/docs/nplants.2016.84.pdf){:target="_blank"} *Nature Plants*. DOI: 10.1038/NPLANTS.2016.84.
 
 ## 2015
 
