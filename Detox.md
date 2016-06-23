@@ -12,6 +12,21 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### July 2016
+
+#### Thursday, July 28, 2016
+TBD
+
+#### Thursday, July 21, 2016
+TBD
+
+#### Thursday, July 14, 2016
+[Battagin et al.](http://gsejournal.biomedcentral.com/articles/10.1186/s12711-016-0221-1) Effect of manipulating recombination rates on response to selection in livestock breeding programs
+
+#### Thursday, July 7, 2016
+[Merotto et al.](http://onlinelibrary.wiley.com/doi/10.1111/eva.12387/abstract#.V1g4vNOdufg.twitter) Evolutionary and social consequences of introgression of NON-transgenic herbicide resistance from rice to weedy rice in Brazil
+
+
 ### June 2016
 
 #### Thursday, June 30, 2016
@@ -143,7 +158,7 @@ No DETOX -- Thanksgiving
 <!---
 Up next:
 
-[Merotto et al.](http://onlinelibrary.wiley.com/doi/10.1111/eva.12387/abstract#.V1g4vNOdufg.twitter) Evolutionary and social consequences of introgression of NON-transgenic herbicide resistance from rice to weedy rice in Brazil
+
 
 Identification of a gene for temperature sex determination (Not something I study- but I thought it looks cool)
 http://www.genetics.org/content/203/1/557
