@@ -15,13 +15,14 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### July 2016
 
 #### Thursday, July 28, 2016
-TBD
+[Fuchsberger et al.](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18642.html) The genetic architecture of type 2 diabetes
 
 #### Thursday, July 21, 2016
-TBD
+[Boyko et al.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000451) A Simple Genetic Architecture Underlies Morphological Variation in Dogs
 
 #### Thursday, July 14, 2016
 [Battagin et al.](http://gsejournal.biomedcentral.com/articles/10.1186/s12711-016-0221-1) Effect of manipulating recombination rates on response to selection in livestock breeding programs
+**NOTE FOR JULY 14: We will try meeting at Gunter Hans (7 Hitt Street) for a change of pace**
 
 #### Thursday, July 7, 2016
 [Merotto et al.](http://onlinelibrary.wiley.com/doi/10.1111/eva.12387/abstract#.V1g4vNOdufg.twitter) Evolutionary and social consequences of introgression of NON-transgenic herbicide resistance from rice to weedy rice in Brazil
@@ -178,12 +179,8 @@ http://onlinelibrary.wiley.com/doi/10.1111/mec.13664/abstract
 Gene duplication in mammals from Pritchard’s group:
 http://science.sciencemag.org/content/352/6288/1009.full
 
-Boyko paper on size in dogs (I’ve read this but I think Makenzie should read it):
-http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000451
-
 G3 - improving genomic selection by accounting for LD in switchgrass
 http://g3journal.org/content/6/4/1049.abstract
-
 
 
 -->
