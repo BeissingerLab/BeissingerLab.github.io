@@ -22,6 +22,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 #### Thursday, July 14, 2016
 [Battagin et al.](http://gsejournal.biomedcentral.com/articles/10.1186/s12711-016-0221-1) Effect of manipulating recombination rates on response to selection in livestock breeding programs
+
 **NOTE FOR JULY 14: We will try meeting at Gunter Hans (7 Hitt Street) for a change of pace**
 
 #### Thursday, July 7, 2016
