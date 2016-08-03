@@ -12,7 +12,18 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
-### July 2016
+### August 2016
+
+#### Thursday, August 18, 2016
+[Lamichhaney et al.](http://science.sciencemag.org/content/352/6284/470) A beak size locus in Darwin’s finches facilitated character displacement during a drought
+
+#### Thursday, August 11, 2016
+[Schrider et al.](http://biorxiv.org/content/early/2016/04/05/047019) Effects of linked selective sweeps on demographic inference and model selection
+
+#### Thursday, August 4, 2016
+[Lan et al.](http://science.sciencemag.org/content/352/6288/1009.full) Coregulation of tandem duplicate genes slows evolution of subfunctionalization in mammals
+
+### July 2016		   	    
 
 #### Thursday, July 28, 2016
 [Fuchsberger et al.](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18642.html) The genetic architecture of type 2 diabetes
@@ -165,11 +176,8 @@ Up next:
 Identification of a gene for temperature sex determination (Not something I study- but I thought it looks cool)
 http://www.genetics.org/content/203/1/557
 
-Linked selective sweeps & pop gen:
-http://biorxiv.org/content/early/2016/04/05/047019
 
-Genomics in Darwin’s finches:
-http://science.sciencemag.org/content/352/6284/470
+
 
 Review on the repeatability of evolution:
 http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract
@@ -177,8 +185,6 @@ http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract
 Gene flow & parallel genomic changes in lampreys:
 http://onlinelibrary.wiley.com/doi/10.1111/mec.13664/abstract
 
-Gene duplication in mammals from Pritchard’s group:
-http://science.sciencemag.org/content/352/6288/1009.full
 
 G3 - improving genomic selection by accounting for LD in switchgrass
 http://g3journal.org/content/6/4/1049.abstract
