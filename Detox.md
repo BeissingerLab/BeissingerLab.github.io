@@ -12,7 +12,23 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+
+### September 2016
+
+#### Thursday, September 15, 2016
+[Josephs and Wright](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006240) On the Trail of Linked Selection ***We'll have an important visitor, Sarah Turner from the University of Wisconsin, participating in this Detox***
+
+#### Thursday, September 8, 2016
+[Kelly et al.](http://gbe.oxfordjournals.org/content/5/8/1457.abstract) The Genomic Signal of Partial Sweeps in Mimulus guttatus ***this will be good reading before John Kelly's IPG seminar on September 12***
+
+#### Thursday, September 1, 2016
+[Martin and Orgogozo](http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract) The Loci of Repeated Evolution: A Catalog of Genetic Hotspots of Phenotypic Variation
+
+
 ### August 2016
+
+#### Thursday, August 25, 2016
+[Schrider et al.](http://biorxiv.org/content/early/2016/04/05/047019) Effects of linked selective sweeps on demographic inference and model selection
 
 #### Thursday, August 18, 2016
 [Lamichhaney et al.](http://science.sciencemag.org/content/352/6284/470) A beak size locus in Darwin’s finches facilitated character displacement during a drought
