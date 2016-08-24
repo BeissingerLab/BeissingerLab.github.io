@@ -15,13 +15,13 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### September 2016
 
-#### Thursday, September 15, 2016
+#### Thursday, September 15, 2016, ***We'll have an important visitor, Sarah Turner from the University of Wisconsin, participating in this Detox***
 [Josephs and Wright](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006240) On the Trail of Linked Selection
-***We'll have an important visitor, Sarah Turner from the University of Wisconsin, participating in this Detox***
 
-#### Thursday, September 8, 2016
+
+#### Thursday, September 8, 2016, ***this will be good reading before John Kelly's IPG seminar on September 12***
 [Kelly et al.](http://gbe.oxfordjournals.org/content/5/8/1457.abstract) The Genomic Signal of Partial Sweeps in Mimulus guttatus
-***this will be good reading before John Kelly's IPG seminar on September 12***
+
 
 #### Thursday, September 1, 2016
 [Martin and Orgogozo](http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract) The Loci of Repeated Evolution: A Catalog of Genetic Hotspots of Phenotypic Variation
