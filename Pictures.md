@@ -23,7 +23,7 @@ Left to right: Kate, Alex, Tim. We set our alarms and got out to the field brigh
 
 
 ## Experimental Evolution
-This is generation 0 of our experimental evolution study. We are performing selection for tall and short plants in four replicated populations (two in each direction). Selection is being performed on a "Shoepeg" landrace of maize collected from Southern Missouri in the 1960's.
+This is generation 0 of our experimental evolution study. We are performing selection for tall and short plants in four replicated populations (two in each direction). Selection is being performed on a "Shoepeg" maize landrace collected from Southern Missouri in the 1960's.
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
@@ -33,7 +33,7 @@ This is generation 0 of our experimental evolution study. We are performing sele
 </div>
 
 ## Ancient Planter
-This is the ancient planter we used to plant our experimental evolution populations. It's probably older than the shoepeg corn we're studying!
+This is the ancient planter we used to plant our experimental evolution populations. It's probably older than the Shoepeg landrace we're studying!
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>  <br>  <br>
 
