@@ -27,7 +27,7 @@ Gorgeous maize fields spotted while biking in Southwest Wisconsin.
 
 -------------------------------
 <div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/Shoepeg.jpg"><img src="/img/Shoepeg.jpg" title="Shoepeg" width="400" border="0"></a>
+    <a href="http://beissingerlab.github.io/img/Shoepeg.jpg"><img src="/img/Shoepeg.jpg" title="Shoepeg" width="1000" border="0"></a>
 </div>
 
 ## Experimental Evolution
