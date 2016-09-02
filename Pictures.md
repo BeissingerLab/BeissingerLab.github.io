@@ -21,16 +21,20 @@ Left to right: Kate, Alex, Tim. We set our alarms and got out to the field brigh
     <a href="http://beissingerlab.github.io/img/Shoepeg.jpg"><img src="/img/Shoepeg.jpg" title="Shoepeg" width="300" border="0"></a>
 </div>
 
-<div style="float: right; padding-left: 15px">
+
+## Experimental Evolution
+This is generation 0 of our experimental evolution study. We are performing selection for tall and short plants in four replicated populations (two in each direction). Selection is being performed on a "Shoepeg" landrace of maize collected from Southern Missouri in the 1960's.
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+## Ancient Planter
+<div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Planter.jpg"><img src="/img/Planter.jpg" title="Ancient Planter" width="300" border="0"></a>
 </div>
 
-## Experimental Evolution
-On the left is generation 0 of our experimental evolution study. We are performing selection for tall and short plants in four replicated populations (two in each direction). Selection is being performed on a "Shoepeg" landrace of maize collected from Southern Missouri in the 1960's.
+This is the ancient planter we used to plant this experiment. It's probably older than the population we're studying!
 
-On the right is the ancient planter we used to plant this experiment. It's probably older than the population we're studying!
-
-<br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 
 -------------------------------
