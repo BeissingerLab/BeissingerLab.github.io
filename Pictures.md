@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pictures
-permalink: /Picutres/
+permalink: /Pictures/
 ---
 
 
