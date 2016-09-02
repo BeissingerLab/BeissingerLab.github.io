@@ -24,7 +24,7 @@ Left to right: Kate, Alex, Tim. We set our alarms and got out to the field brigh
 ## Experimental Evolution
 This is generation 0 of our experimental evolution study. We are performing selection for tall and short plants in four replicated populations (two in each direction). Selection is being performed on a "Shoepeg" landrace of maize collected from Southern Missouri in the 1960's.
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 
 -------------------------------
