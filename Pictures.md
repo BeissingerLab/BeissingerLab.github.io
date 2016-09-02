@@ -30,7 +30,7 @@ On the left is generation 0 of our experimental evolution study. We are performi
 
 On the right is the ancient planter we used to plant this experiment. It's probably older than the population we're studying!
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 
 
 -------------------------------
