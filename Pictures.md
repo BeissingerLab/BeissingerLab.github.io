@@ -27,14 +27,15 @@ This is generation 0 of our experimental evolution study. We are performing sele
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
+--------------------------------
 ## Ancient Planter
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Planter.jpg"><img src="/img/Planter.jpg" title="Ancient Planter" width="300" border="0"></a>
 </div>
 
-This is the ancient planter we used to plant this experiment. It's probably older than the population we're studying!
+This is the ancient planter we used to plant this experiment. It's probably older than the shoepeg population we're studying!
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>  <br>  <br>
 
 
 -------------------------------
