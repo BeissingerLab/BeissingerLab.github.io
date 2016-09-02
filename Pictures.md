@@ -11,9 +11,9 @@ permalink: /Picutres/
 </div>
 
 ## 2016 Field Crew
-Right to Left: Kate, Alex, Tim. We set our alarms and got out to the field bright and early this summer to get science done.
+Left to right: Kate, Alex, Tim. We set our alarms and got out to the field bright and early this summer to get science done.
 
-<br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 -------------------------------
 <div style="float: left; padding-right: 15px">
