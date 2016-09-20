@@ -15,7 +15,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### October 2016
 
 #### Thursday, October 6, 2016
-[Martin et al.](http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract) The loci of repeated evolution: a catalog of genetic hotspots of phenotypic variation
+[Zhao et al.](http://www.nature.com/articles/srep29553) Breeding signature of combining ability improvement revealed by a genomic variation map from recurrent selection population in Brassica napus
 
 
 ### September 2016
