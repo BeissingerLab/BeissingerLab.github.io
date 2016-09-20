@@ -12,8 +12,19 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### October 2016
+
+#### Thursday, October 6, 2016
+[Martin et al.](http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract) The loci of repeated evolution: a catalog of genetic hotspots of phenotypic variation
+
 
 ### September 2016
+
+#### Thursday, September 29, 2016
+[Rougemont et al.](http://onlinelibrary.wiley.com/doi/10.1111/mec.13664/abstract) Inferring the demographic history underlying parallel genomic divergence among pairs of parasitic and nonparasitic lamprey ecotypes
+
+#### Thursday, September 22, 2016
+[Abdollahi-Arpanahi et al.](http://gsejournal.biomedcentral.com/articles/10.1186/s12711-016-0187-z) Differential contribution of genomic regions to marked genetic variation and prediction of quantitative traits in broiler chickens
 
 #### Thursday, September 15, 2016, ***We'll have an important visitor, Sarah Turner from the University of Wisconsin, participating in this Detox***
 [Josephs and Wright](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006240) On the Trail of Linked Selection
@@ -197,11 +208,6 @@ http://www.genetics.org/content/203/1/557
 
 
 
-Review on the repeatability of evolution:
-http://onlinelibrary.wiley.com/doi/10.1111/evo.12081/abstract
-
-Gene flow & parallel genomic changes in lampreys:
-http://onlinelibrary.wiley.com/doi/10.1111/mec.13664/abstract
 
 
 G3 - improving genomic selection by accounting for LD in switchgrass
