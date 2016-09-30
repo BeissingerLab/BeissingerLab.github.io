@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### October 2016
 
+#### Thursday, Octoberr 13, 2016
+[Johnsson et al](http://www.nature.com/articles/ncomms12950) Feralisation targets different genomic loci to domestication in the chicken
+
 #### Thursday, October 6, 2016
 [Zhao et al.](http://www.nature.com/articles/srep29553) Breeding signature of combining ability improvement revealed by a genomic variation map from recurrent selection population in Brassica napus
 
