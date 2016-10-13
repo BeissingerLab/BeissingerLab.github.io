@@ -4,6 +4,7 @@
 
 ## Timothy M Beissinger
 ## Updated: 1-25-2012
+## Updated 10-13-2016
 
 ###################################################
 # This function will simulate drift for a neutral locus.
@@ -27,6 +28,8 @@
 # simulation.
 
 driftNeutral <- function(initial,total.pop,no.males=total.pop/2,no.females=total.pop/2,cycles=30,plot=F,sims=1,sleep=0){
+  no.males = 2*no.males #total number of male alleles
+  no.females = 2*no.females #total number of female alleles (notice total.pop is always multiplied by 2 in function)
   prog <- c(rep("A",initial*total.pop*2),rep("B",(1-initial)*total.pop*2))
   maleprog <- c()
   femaleprog <- c()
