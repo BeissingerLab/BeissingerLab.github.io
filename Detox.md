@@ -14,9 +14,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### October 2016
 
-#### Thursday, October 20, 2016
+#### Thursday, October 27, 2016
 [Yang et al](http://www.nature.com/ng/journal/v42/n7/full/ng.608.html)Common SNPs explain a large proportion of the heritability for human height
 
+#### Thursday, October 20, 2016
 [Bosse et al](http://rspb.royalsocietypublishing.org/content/282/1821/20152019.abstract) Artificial selection on introduced Asian haplotypes shaped the genetic architecture in European commercial pigs
 
 #### Thursday, Octoberr 13, 2016
