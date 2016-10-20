@@ -12,6 +12,15 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### November 2016
+
+#### Thursday, November 11, 2016
+[Natarajan et al](http://science.sciencemag.org/content/354/6310/336) Predictable convergence in hemoglobin function has unpredictable molecular underpinnings
+
+#### Thursday, November 4, 2016 **This Paper from the Stephens lab should help us prepare for Matthew Stephens visit to Mizzou on November 8**
+[Petkova et al](http://stephenslab.uchicago.edu/assets/papers/Petkova2015.pdf] Visualizing spatial population structure with estimated
+effective migration surfaces 
+
 ### October 2016
 
 #### Thursday, October 27, 2016
