@@ -23,7 +23,8 @@ TBD
 #### Thursday, November 10, 2016
 [Natarajan et al](http://science.sciencemag.org/content/354/6310/336) Predictable convergence in hemoglobin function has unpredictable molecular underpinnings
 
-#### Thursday, November 3, 2016 **This Paper from the Stephens lab should help us prepare for Matthew Stephens visit to Mizzou on November 8**
+#### Thursday, November 3, 2016
+**This Paper from the Stephens lab should help us prepare for Matthew Stephens visit to Mizzou on November 8**
 [Petkova et al](http://stephenslab.uchicago.edu/assets/papers/Petkova2015.pdf) Visualizing spatial population structure with estimated
 effective migration surfaces 
 
