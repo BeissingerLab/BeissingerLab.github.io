@@ -15,10 +15,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### November 2016
 
 #### Thursday, November 24, 2016
-TBD
+Thanksgiving. Discuss a good paper with non-scientist family and friends!
 
 #### Thursday, November 17, 2016
-TBD
+[Gould et al](http://onlinelibrary.wiley.com/doi/10.1111/mec.13881/abstract) Pooled ecotype sequencing reveals candidate genetic mechanisms for adaptive differentiation and reproductive isolation
 
 #### Thursday, November 10, 2016
 [Natarajan et al](http://science.sciencemag.org/content/354/6310/336) Predictable convergence in hemoglobin function has unpredictable molecular underpinnings
