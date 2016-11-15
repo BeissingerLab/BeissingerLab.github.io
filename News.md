@@ -6,13 +6,13 @@ permalink: /News/
 
 ### November 15, 2016
 
-<div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/conePlanter.JPG"><img src="/img/conePlanter.JPG" title="Cone Planter" width="300" border="0"></a>
+<div style="float: right; padding-left: 15px">
+    <a href="http://beissingerlab.github.io/img/conePlanter.JPG"><img src="/img/conePlanter.JPG" title="Cone Planter" width="200" border="0"></a>
 </div>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br>
-
 Today our 2-row cone planter was delivered from Almaco. This will be very useful for planting nurseries and trials in the future!
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 ### June 13, 2016
 Our latest paper is available at [Nature Plants](http://www.nature.com/articles/nplants201684).
