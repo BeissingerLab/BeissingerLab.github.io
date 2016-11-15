@@ -6,7 +6,6 @@ permalink: /News/
 
 ### November 15, 2016
 Today our 2-row cone planter was delivered from Almaco. This will be very useful for planting nurseries and trials in the future!
-
 <div>
     <a href="http://beissingerlab.github.io/img/conePlanter.JPG"><img src="/img/conePlanter.JPG" title="Cone Planter" width="200" border="0"></a>
 </div>
