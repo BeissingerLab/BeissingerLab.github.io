@@ -12,6 +12,14 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### December 2016
+
+#### December 8
+[Sicard et al, 2016](http://m.pnas.org/content/early/2016/11/09/1613394113.full) Standing genetic variation in a tissue-specific enhancer underlies selfing-syndrome evolution in Capsella
+
+#### December 1
+[Yang et al, 2016](http://biorxiv.org/content/early/2016/11/07/086132) Incomplete dominance of deleterious alleles contribute substantially to trait variation and heterosis in maize
+
 ### November 2016
 
 #### Thursday, November 24, 2016
