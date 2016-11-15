@@ -7,8 +7,10 @@ permalink: /News/
 ### November 15, 2016
 
 <div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/conePlanter.JPG"><img src="/img/conePlanter.JPG" title="Cone Planter" width="400" border="0"></a>
+    <a href="http://beissingerlab.github.io/img/conePlanter.JPG"><img src="/img/conePlanter.JPG" title="Cone Planter" width="300" border="0"></a>
 </div>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 Today our 2-row cone planter was delivered from Almaco. This will be very useful for planting nurseries and trials in the future!
 
