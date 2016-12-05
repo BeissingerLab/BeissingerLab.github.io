@@ -14,7 +14,7 @@ permalink: /People/
 
 #### Tim Beissinger <a href="http://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en" target="_blank"><img src="/img/scholar.png" style="width: 23px;"></a> <a href="/docs/tbeissingerCV_publish.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a> <a href="https://twitter.com/timbeissinger" target="_blank"><img src="/img/Twitter_logo_blue.png" style="width: 23px; border=10 px"></a>
 
-Tim is a research geneticist with the USDA-ARS and an adjunct assistant professor in the Division of Plant Sciences at the University of Missouri, Columbia. Before starting in Missouri, he received a PhD in statistical and quantitative genetics from the University of Wisconsin, Madison, followed by a postdoc at the University of California, Davis.
+Tim is a research geneticist with the USDA-ARS and an adjunct assistant professor in the Divisions of Plant Sciences and Biological Sciences at the University of Missouri, Columbia. Before starting in Missouri, he received a PhD in statistical and quantitative genetics from the University of Wisconsin, Madison, followed by a postdoc at the University of California, Davis.
 
 
 <br><br><br>
@@ -38,7 +38,19 @@ Kate is an expert in both lab and field. She leads all of our data-generating en
 
 #### Alex Gregory, Undergraduate Researcher
 
-Alex is conducting simulations of directional selection under several models of different genetic control. He's majoring in Biology at Mizzou.
+Alex is honing his bioinformatics skills to align and call SNPs from sequence data. He is a Senior majoring in Biology at Mizzou.
+
+<br><br><br>
+
+
+<div style="float: left; padding-right: 15px">
+    <a href="http://beissingerlab.github.io/img/Husain.jpg"><img src="/img/Husain.jpg" title="Husain" width="100" border="0"></a>
+</div>
+
+
+#### Husain Agha, Undergraduate Researcher
+
+Husain is using genomic prediction methods to quantify the genetic basis for seed amino acid profiles. He is a Junior majoring in Biology at Mizzou.
 
 <br><br><br>
 
@@ -49,7 +61,7 @@ Alex is conducting simulations of directional selection under several models of 
 
 ### Interested in joining the lab?
 ----------------------------------------
-We expect to be expanding in the near future. If you are interested in joining the group for graduate school, a postdoc, or for undergraduate research experience, feel free to email.
+We are always open to welcoming additional enthusiastic team members. If you are interested in joining the group for graduate school, a postdoc, or for undergraduate research experience, please email Tim.
 
 <br/>
 <br/>
