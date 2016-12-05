@@ -38,9 +38,9 @@ Kate is an expert in both lab and field. She leads all of our data-generating en
 
 #### Alex Gregory, Undergraduate Researcher
 
-Alex is honing his bioinformatics skills to align and call SNPs from sequence data. He is a Senior majoring in Biology at Mizzou.
+Alex is honing his bioinformatics skills to align and call SNPs from sequence data. His work is contributing to our research into the genomic response to selective forces using experimental evolution. He is a Senior majoring in Biology at Mizzou.
 
-<br><br><br>
+<br><br><br><br><br>
 
 
 <div style="float: left; padding-right: 15px">
@@ -50,7 +50,7 @@ Alex is honing his bioinformatics skills to align and call SNPs from sequence da
 
 #### Husain Agha, Undergraduate Researcher
 
-Husain is using genomic prediction methods to quantify the genetic basis for seed amino acid profiles. He is a Junior majoring in Biology at Mizzou.
+Husain is using genomic prediction methods to quantify the genetic basis for seed amino acid profiles. He's also contributing to our work to understand the importance of epistasis in maize. He is a Junior majoring in Biology at Mizzou.
 
 <br><br><br>
 
