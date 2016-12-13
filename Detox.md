@@ -14,6 +14,15 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### December 2016
 
+#### December 29
+No Detox -- You should be writing!
+
+#### December 22
+No Detox -- Read on your own
+
+#### December 15
+No Detox -- Good luck on finals!
+
 #### December 8
 [Sicard et al, 2016](http://www.pnas.org/content/113/48/13911) Standing genetic variation in a tissue-specific enhancer underlies selfing-syndrome evolution in Capsella
 
