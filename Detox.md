@@ -12,6 +12,17 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### January 2017
+
+#### January 19
+[Brzyski et al, 2017](http://www.genetics.org/content/205/1/61) Controlling the Rate of GWAS False Discoveries
+
+#### January 12
+No Detox
+
+#### January 5
+No Detox
+
 ### December 2016
 
 #### December 29
