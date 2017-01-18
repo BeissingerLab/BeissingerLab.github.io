@@ -4,6 +4,9 @@ title: News
 permalink: /News/
 ---
 
+### Jan/Feb 2016
+[Mizzou press story about an upcoming student-run symposium](http://cafnrnews.com/2017/01/starting-off-the-series/)
+
 ### November 15, 2016
 Today our 2-row cone planter was delivered from Almaco. This will be very useful for planting nurseries and trials in the future!
 <div>
