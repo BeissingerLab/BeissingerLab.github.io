@@ -36,11 +36,11 @@ Kate is an expert in both lab and field. She leads all of our data-generating en
 </div>
 
 
-#### Abiskar, Rotating Graduate Student
+#### Abiskar Gyawali, Rotating Graduate Student
 
 Abi is spending a few months in the lab working on identifying selection and conducting GWAS for physiological traits using our experimental evolution 'Shoepeg' populations. He is a first year PhD student in the Division of Biological Sciences.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
