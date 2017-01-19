@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### January 2017
 
+#### January 26
+[Siddiq et al, 2016](http://www.nature.com/articles/s41559-016-0025) Experimental test and refutation of a classic case of molecular adaptation in Drosophila melanogaster
+
 #### January 19
 [Brzyski et al, 2017](http://www.genetics.org/content/205/1/61) Controlling the Rate of GWAS False Discoveries
 
