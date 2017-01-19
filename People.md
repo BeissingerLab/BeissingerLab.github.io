@@ -24,7 +24,7 @@ Tim is a research geneticist with the USDA-ARS and an adjunct assistant professo
 
 #### Kate Guill, Biological Science Technician
 
-Kate is an expert in both lab and field. She leads all of our data-generating endeavors.
+Kate is an expert with over 25 years of experience in both the lab and field. She leads all of our data-generating endeavors.
 
 <br>
 
