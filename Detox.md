@@ -12,6 +12,11 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### February 2017
+
+#### February 2
+Instead of Detox, go to the [MU Pioneer Plant Science Symposium](http://mupioneersymposium.org/)!
+
 ### January 2017
 
 #### January 26
