@@ -12,7 +12,27 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### March 2017
+
+#### March 16
+TBD
+
+#### March 9
+TBD
+
+#### March 2
+TBD
+
 ### February 2017
+
+#### February 23
+[Imprialou et al.](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
+
+#### February 16
+[Nam et al.](http://www.pnas.org/content/early/2017/01/25/1605660114.short) Evidence that the rate of strong selective sweeps increases with population size in the great apes
+
+#### February 9
+[Lillie et al.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3414-7) Genome-wide standing variation facilitates long-term response to bidirectional selection for antibody response in chickens
 
 #### February 2
 Instead of Detox, go to the [MU Pioneer Plant Science Symposium](http://mupioneersymposium.org/)!
