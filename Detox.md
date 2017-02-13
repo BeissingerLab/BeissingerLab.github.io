@@ -25,8 +25,8 @@ TBD
 
 ### February 2017
 
-#### February 23 
-[Shaw and Shaw](http://www.nature.com/hdy/journal/v112/n1/full/hdy201342a.html) Quantitative genetic study of the adaptive process **This paper will be discussed in Anticipation of Ruth Shaw's BioSci seminar the following Tuesday, February 28** 
+#### February 23 ***This discussion will be in anticipation of Ruth Shaw's BioSci seminar the following Tuesday, February 28*** 
+[Shaw and Shaw](http://www.nature.com/hdy/journal/v112/n1/full/hdy201342a.html) Quantitative genetic study of the adaptive process 
 
 #### February 16
 [Nam et al.](http://www.pnas.org/content/early/2017/01/25/1605660114.short) Evidence that the rate of strong selective sweeps increases with population size in the great apes
