@@ -4,7 +4,10 @@ title: News
 permalink: /News/
 ---
 
-### Jan/Feb 2016
+### Feb 2017
+Our latest paper, [*Medical subject heading (MeSH) annotations illuminate maize genetics and evolution*](http://biorxiv.org/content/early/2016/07/13/048132),  was accepted at Plant Methods.
+
+### Jan/Feb 2017
 [Mizzou press story about an upcoming student-run symposium](http://cafnrnews.com/2017/01/starting-off-the-series/)
 
 ### November 15, 2016

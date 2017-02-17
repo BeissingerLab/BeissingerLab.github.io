@@ -4,8 +4,8 @@ title: Publications
 permalink: /Publications/
 ---
 
-## Preprints
-**Beissinger, T.M.**, Morota, G. [Medical subject heading (MeSH) annotations illuminate maize genetics and evolution](http://biorxiv.org/content/early/2016/04/12/048132){:target="_blank"} bioRxiv.
+## 2017
+**Beissinger, T.M.**, Morota, G. 2017. [Medical subject heading (MeSH) annotations illuminate maize genetics and evolution](http://biorxiv.org/content/early/2016/07/13/048132){:target="_blank"} in press at *Plant Methods*.
 
 
 ## 2016
