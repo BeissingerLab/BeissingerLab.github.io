@@ -15,10 +15,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### March 2017
 
 #### March 16
-TBD
+[Forsberg et al.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3800.html) Accounting for genetic interactions improves modeling of individual quantitative trait phenotypes in yeast
 
 #### March 9
-TBD
+[Josephs et al.](http://onlinelibrary.wiley.com/doi/10.1111/nph.14410/full) What can genome-wide association studies tell us about the evolutionary forces maintaining genetic variation for quantitative traits?
 
 #### March 2
 [Imprialou et al.](http://biorxiv.org/content/early/2016/11/12/087387) Genomic Rearrangements Considered as Quantitative Traits
