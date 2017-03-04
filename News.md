@@ -5,7 +5,7 @@ permalink: /News/
 ---
 
 ### Feb 2017
-Our latest paper, [*Medical subject heading (MeSH) annotations illuminate maize genetics and evolution*](http://biorxiv.org/content/early/2016/07/13/048132),  was accepted at Plant Methods.
+Our latest paper, [*Medical subject heading (MeSH) annotations illuminate maize genetics and evolution*](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0159-5),  has been published in the journal Plant Methods.
 
 ### Jan/Feb 2017
 [Mizzou press story about an upcoming student-run symposium](http://cafnrnews.com/2017/01/starting-off-the-series/)
