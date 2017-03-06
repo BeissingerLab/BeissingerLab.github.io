@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### March 2017
 
+#### March 23
+[Burke et al.](https://academic.oup.com/mbe/article/31/12/3228/2925680/Standing-Genetic-Variation-Drives-Repeatable) Standing Genetic Variation Drives Repeatable Experimental Evolution in Outcrossing Populations of Saccharomyces cerevisiae
+
 #### March 16
 [Forsberg et al.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3800.html) Accounting for genetic interactions improves modeling of individual quantitative trait phenotypes in yeast
 
