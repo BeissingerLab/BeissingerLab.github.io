@@ -4,6 +4,9 @@ title: Publications
 permalink: /Publications/
 ---
 
+## Preprints
+Wang, L., **Beissinger, T.M.**, Lorant, A., Ross-Ibarra, C., Ross-Ibarra, J., Hufford, M. [The interplay of demography and selection during maize domestication and expansion.](http://biorxiv.org/content/early/2017/03/07/114579). Bioarxiv.
+
 ## 2017
 **Beissinger, T.M.**, Morota, G. 2017. [Medical subject heading (MeSH) annotations illuminate maize genetics and evolution](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0159-5} *Plant Methods*. DOI: 10.1186/s13007-017-0159-5.
 
