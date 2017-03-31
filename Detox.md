@@ -12,6 +12,11 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### April 2017
+
+#### April 6
+[Porto et al.](http://www.genetics.org/content/204/4/1601) Evolution of the Genotype-to-Phenotype Map and the Cost of Pleiotropy in Mammals
+
 ### March 2017
 
 #### March 30

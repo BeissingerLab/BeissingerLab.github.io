@@ -36,9 +36,9 @@ Kate is an expert with over 25 years of experience in both the lab and field. Sh
 </div>
 
 
-#### Abiskar Gyawali, Rotating Graduate Student
+#### Abiskar Gyawali, PhD Student
 
-Abi is spending a few months in the lab working on identifying selection and conducting GWAS for physiological traits using our experimental evolution 'Shoepeg' populations. He is a first year PhD student in the Division of Biological Sciences.
+Abi is working on identifying selection and conducting GWAS for physiological traits using our experimental evolution 'Shoepeg' populations. He is a PhD student in the Division of Biological Sciences.
 
 <br><br><br><br><br><br>
 
@@ -72,7 +72,7 @@ Husain is using genomic prediction methods to quantify the genetic basis for see
 
 ### Interested in joining the lab?
 ----------------------------------------
-We are always open to welcoming additional enthusiastic team members. If you are interested in joining the group for graduate school, a postdoc, or for undergraduate research experience, please email Tim.
+We are seeking additional enthusiastic team members. If you are interested in joining the group for a postdoc, graduate school, or for undergraduate research experience, please email Tim.
 
 <br/>
 <br/>
