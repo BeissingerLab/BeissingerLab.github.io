@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### April 2017
 
+#### April 13
+[Porto et al.](http://www.genetics.org/content/204/4/1601) Evolution of the Genotype-to-Phenotype Map and the Cost of Pleiotropy in Mammals
+
 #### April 6
 [Porto et al.](http://www.genetics.org/content/204/4/1601) Evolution of the Genotype-to-Phenotype Map and the Cost of Pleiotropy in Mammals
 
