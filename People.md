@@ -4,6 +4,13 @@ title: People
 permalink: /People/
 ---
 
+### Interested in joining the lab?
+----------------------------------------
+We are seeking additional enthusiastic team members. If you are interested in joining the group for a postdoc, graduate school, or for undergraduate research experience, please email Tim.
+
+<br/>
+<br/>
+
 
 ## Principal Investigator
 ----------------------------------------
@@ -68,14 +75,5 @@ Husain is using genomic prediction methods to quantify the genetic basis for see
 <br>
 
 <br>
-
-
-### Interested in joining the lab?
-----------------------------------------
-We are seeking additional enthusiastic team members. If you are interested in joining the group for a postdoc, graduate school, or for undergraduate research experience, please email Tim.
-
-<br/>
-<br/>
-
 
 
