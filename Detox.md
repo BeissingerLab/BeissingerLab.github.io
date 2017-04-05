@@ -15,7 +15,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### April 2017
 
 #### April 13
-[Porto et al.](http://www.genetics.org/content/204/4/1601) Evolution of the Genotype-to-Phenotype Map and the Cost of Pleiotropy in Mammals
+[Forsberg and Carlborg](http://biorxiv.org/content/early/2017/03/23/119727) On The Relationship Between Epistasis And Genetic Variance-Heterogeneity
 
 #### April 6
 [Porto et al.](http://www.genetics.org/content/204/4/1601) Evolution of the Genotype-to-Phenotype Map and the Cost of Pleiotropy in Mammals
