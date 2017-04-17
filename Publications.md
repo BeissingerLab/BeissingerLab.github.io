@@ -13,7 +13,7 @@ Wang, L., **Beissinger, T.M.**, Lorant, A., Ross-Ibarra, C., Ross-Ibarra, J., Hu
 
 ## 2016
 
-Morota, G, **Beissinger, T.M.**, Penagaricano, F. [MeSH annotation of the chicken genome: 2 MeSH-informed enrichment analysis and 3 MeSH-guided semantic similarity among 4 functional terms and gene products](http://www.g3journal.org/content/early/2016/06/01/g3.116.031096.abstract?sid=59a4c3f3-e212-409b-91bc-eafa877a61bd){:target="_blank"} *Genes Genomes Genetics*. DOI: 10.1534/g3.116.031096.
+Morota, G, **Beissinger, T.M.**, Penagaricano, F. [MeSH annotation of the chicken genome:  MeSH-informed enrichment analysis and  MeSH-guided semantic similarity among  functional terms and gene products](http://www.g3journal.org/content/early/2016/06/01/g3.116.031096.abstract?sid=59a4c3f3-e212-409b-91bc-eafa877a61bd){:target="_blank"} *Genes Genomes Genetics*. DOI: 10.1534/g3.116.031096.
 
 **Beissinger, T.M.**, Wang, L., Crosby, K., Durvasula, A., Hufford, M.B., Ross-Ibarra, J. 2016. [Recent demography drives changes in linked selection across the maize genome.](http://beissingerlab.github.io/docs/nplants.2016.84.pdf){:target="_blank"} *Nature Plants*. DOI: 10.1038/NPLANTS.2016.84.
 

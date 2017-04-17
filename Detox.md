@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### April 2017
 
+#### April 20
+[Thalmann et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006665) The evolution of Sex-linked barring alleles in chickens involves both regulatory and coding changes in CDKN2A **In honor of my new backyard chicks, which include one of the type described here**
+
 #### April 13
 [Forsberg and Carlborg](http://biorxiv.org/content/early/2017/03/23/119727) On The Relationship Between Epistasis And Genetic Variance-Heterogeneity
 
