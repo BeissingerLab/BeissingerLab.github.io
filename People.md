@@ -6,7 +6,7 @@ permalink: /People/
 
 ### Interested in joining the lab?
 ----------------------------------------
-We are seeking additional enthusiastic team members. If you are interested in joining the group for a postdoc, graduate school, or for undergraduate research experience, please email Tim.
+We are seeking additional enthusiastic team members, **particularly at the postdoctoral level**. If you are interested in joining the group for a postdoc, graduate school, or for undergraduate research experience, please email Tim: beissingert <at> missouri.edu
 
 <br/>
 <br/>
@@ -31,7 +31,7 @@ Tim is a research geneticist with the USDA-ARS and an adjunct assistant professo
 
 #### Kate Guill, Biological Science Technician
 
-Kate is an expert with over 25 years of experience in both the lab and field. She leads all of our data-generating endeavors.
+Kate has over 25 years of experience in both the lab and field. She leads all of our data-generating endeavors.
 
 <br>
 
@@ -56,7 +56,7 @@ Abi is working on identifying selection and conducting GWAS for physiological tr
 
 #### Alex Gregory, Undergraduate Researcher
 
-Alex is honing his bioinformatics skills to align and call SNPs from sequence data. His work is contributing to our research into the genomic response to selective forces using experimental evolution. He is a Senior majoring in Biology at Mizzou.
+Alex is honing his bioinformatics skills to align and call SNPs from sequence data. His work is contributing to our research into the genomic response to selective forces using experimental evolution. He is a Senior at Mizzou.
 
 <br><br><br><br><br>
 
@@ -68,7 +68,7 @@ Alex is honing his bioinformatics skills to align and call SNPs from sequence da
 
 #### Husain Agha, Undergraduate Researcher
 
-Husain is using genomic prediction methods to quantify the genetic basis for seed amino acid profiles. He's also contributing to our work to understand the importance of epistasis in maize. He is a Junior majoring in Biology at Mizzou.
+Husain is running greenhouse and simulation experiments to understand the imporance of  gene x gene interactions and our power to map them in our "Epistasis Mapping Populations" (EMPs).  He is a Junior at Mizzou.
 
 <br><br><br>
 
