@@ -12,7 +12,18 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### May 2017
+
+#### May 9
+[Shen et al.](https://www.nature.com/articles/s41559-017-0126) Contentious relationships in phylogenomic studies can be driven by a handful of genes
+
+#### May 2
+[Huang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006336) Experimental Evolution of Gene Expression and Plasticity in Alternative Selective Regimes
+
 ### April 2017
+
+#### April 27
+[Zhang et al.](http://www.genetics.org/content/205/4/1537) Genetic Basis of Melanin Pigmentation in Butterfly Wings
 
 #### April 20
 [Thalmann et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006665) The evolution of Sex-linked barring alleles in chickens involves both regulatory and coding changes in CDKN2A **In honor of my new backyard chicks, which include one of the type described here**
