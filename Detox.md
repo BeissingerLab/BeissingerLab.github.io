@@ -14,10 +14,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### May 2017
 
-#### May 9
+#### May 11
 [Shen et al.](https://www.nature.com/articles/s41559-017-0126) Contentious relationships in phylogenomic studies can be driven by a handful of genes
 
-#### May 2
+#### May 4
 [Huang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006336) Experimental Evolution of Gene Expression and Plasticity in Alternative Selective Regimes
 
 ### April 2017
