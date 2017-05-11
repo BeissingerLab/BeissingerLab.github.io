@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### May 2017
 
+#### May 18
+[Barber and Elde](http://science.sciencemag.org/content/346/6215/1362) Escape from bacterial iron piracy through rapid evolution of transferrin
+
 #### May 11
 [Shen et al.](https://www.nature.com/articles/s41559-017-0126) Contentious relationships in phylogenomic studies can be driven by a handful of genes
 
