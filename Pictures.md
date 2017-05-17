@@ -4,6 +4,16 @@ title: Pictures
 permalink: /Pictures/
 ---
 
+-------------------------------
+<div style="float: left; padding-right: 15px">
+    <a href="http://beissingerlab.github.io/img/planting2017.jpg"><img src="/img/planting2017.jpg" title="2017 Planting" width="400" border="0"></a>
+</div>
+
+## 2017 Planting
+As of May 16, we've planted all of our fields for 2017. Despite several equipment malfunctions our new planter got the job done.
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
+
 
 -------------------------------
 <div style="float: left; padding-right: 15px">
