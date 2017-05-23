@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### May 2017
 
+#### May 25
+[Chan et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1001198) The Complex Genetic Architecture of the Metabolome
+
 #### May 18
 [Barber and Elde](http://science.sciencemag.org/content/346/6215/1362) Escape from bacterial iron piracy through rapid evolution of transferrin
 
