@@ -12,6 +12,20 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+
+<!---
+### August 2017
+
+####August 3
+[Cheng et al.](https://www.nature.com/ng/journal/v48/n10/abs/ng.3634.html) Subgenome parallel selection is associated with morphotype diversification and convergent crop domestication in Brassica rapa and Brassica oleracea
+-->
+
+
+### June 2017
+
+#### June 1
+[Sauvage et al.](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13592/full)Domestication rewired gene expression and nucleotide diversity patterns in tomato
+
 ### May 2017
 
 #### May 25
@@ -310,22 +324,3 @@ No DETOX -- Thanksgiving
 
 
 
-
-<!---
-Up next:
-
-
-
-Identification of a gene for temperature sex determination (Not something I study- but I thought it looks cool)
-http://www.genetics.org/content/203/1/557
-
-
-
-
-
-
-G3 - improving genomic selection by accounting for LD in switchgrass
-http://g3journal.org/content/6/4/1049.abstract
-
-
--->
