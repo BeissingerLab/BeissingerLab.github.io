@@ -24,13 +24,13 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### June 2017
 
 #### June 15
-[Han et al.](https://www.nature.com/articles/ncomms14238)Clustering of 770,000 genomes reveals post-colonial population structure of North America
+[Han et al.](https://www.nature.com/articles/ncomms14238) Clustering of 770,000 genomes reveals post-colonial population structure of North America
 
 #### June 8
-[Malinski et al.](http://biorxiv.org/content/early/2017/05/31/143859)Whole Genome Sequences Of Malawi Cichlids Reveal Multiple Radiations Interconnected By Gene Flow
+[Malinski et al.](http://biorxiv.org/content/early/2017/05/31/143859) Whole Genome Sequences Of Malawi Cichlids Reveal Multiple Radiations Interconnected By Gene Flow
 
 #### June 1
-[Sauvage et al.](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13592/full)Domestication rewired gene expression and nucleotide diversity patterns in tomato
+[Sauvage et al.](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13592/full) Domestication rewired gene expression and nucleotide diversity patterns in tomato
 
 ### May 2017
 
