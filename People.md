@@ -38,6 +38,17 @@ Kate has over 25 years of experience in both the lab and field. She leads all of
 ## Lab Members
 ----------------------------------------
 
+
+<div style="float: left; padding-right: 15px">
+    <a href="http://beissingerlab.github.io/img/Shukai.jpg"><img src="/img/Shukai.jpg" title="Shukai" width="150" border="0"></a>
+</div>
+
+#### Shu-Kai Chang, PhD Student
+
+Shukai is a programming whiz with interests in plant genomics and methods for genome-wide association studies. He is a PhD student in the MU Informatics Institute.
+
+<br><br><br><br><br>
+
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Abiskar.jpg"><img src="/img/Abiskar.jpg" title="Abiskar" width="150" border="0"></a>
 </div>
@@ -46,17 +57,6 @@ Kate has over 25 years of experience in both the lab and field. She leads all of
 #### Abiskar Gyawali, PhD Student
 
 Abi is working on identifying selection and conducting GWAS for physiological traits using our experimental evolution 'Shoepeg' populations. He is a PhD student in the Division of Biological Sciences.
-
-<br><br><br><br><br><br>
-
-<div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
-</div>
-
-
-#### Alex Gregory, Undergraduate Researcher
-
-Alex is honing his bioinformatics skills to align and call SNPs from sequence data. His work is contributing to our research into the genomic response to selective forces using experimental evolution. He is a Senior at Mizzou.
 
 <br><br><br><br><br>
 
@@ -70,10 +70,15 @@ Alex is honing his bioinformatics skills to align and call SNPs from sequence da
 
 Husain is running greenhouse and simulation experiments to understand the imporance of  gene x gene interactions and our power to map them in our "Epistasis Mapping Populations" (EMPs).  He is a Junior at Mizzou.
 
-<br><br><br>
 
-<br>
+<br><br><br><br><br><br>
 
-<br>
+<div style="float: left; padding-right: 15px">
+    <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
+</div>
 
+
+#### Alex Gregory, Undergraduate Researcher
+
+Alex is honing his bioinformatics skills to align and call SNPs from sequence data. His work is contributing to our research into the genomic response to selective forces using experimental evolution. He is a Senior at Mizzou.
 
