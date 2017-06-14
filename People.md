@@ -47,7 +47,7 @@ Kate has over 25 years of experience in both the lab and field. She leads all of
 
 Shukai is a programming whiz with interests in plant genomics and methods for genome-wide association studies. He is a PhD student in the MU Informatics Institute.
 
-<br><br><br><br><br>
+<br><br><br>
 
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Abiskar.jpg"><img src="/img/Abiskar.jpg" title="Abiskar" width="150" border="0"></a>
@@ -58,7 +58,7 @@ Shukai is a programming whiz with interests in plant genomics and methods for ge
 
 Abi is working on identifying selection and conducting GWAS for physiological traits using our experimental evolution 'Shoepeg' populations. He is a PhD student in the Division of Biological Sciences.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <div style="float: left; padding-right: 15px">
@@ -71,7 +71,7 @@ Abi is working on identifying selection and conducting GWAS for physiological tr
 Husain is running greenhouse and simulation experiments to understand the imporance of  gene x gene interactions and our power to map them in our "Epistasis Mapping Populations" (EMPs).  He is a Junior at Mizzou.
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>
