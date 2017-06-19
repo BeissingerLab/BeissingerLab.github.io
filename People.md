@@ -71,7 +71,7 @@ Abi is working on identifying selection and conducting GWAS for physiological tr
 Husain is running greenhouse and simulation experiments to understand the imporance of  gene x gene interactions and our power to map them in our "Epistasis Mapping Populations" (EMPs).  He is a Junior at Mizzou.
 
 
-<br><br><br><br>
+<br><br><br>
 
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Alex.jpg"><img src="/img/Alex.jpg" title="Alex" width="150" border="0"></a>

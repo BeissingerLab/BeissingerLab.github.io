@@ -23,7 +23,13 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### June 2017
 
-#### June 15
+#### June 28
+[Zhou et al.](http://biorxiv.org/content/early/2017/06/05/146373)The Evolutionary Genomics of Grape (Vitis vinifera ssp. vinifera) Domestication
+
+#### June 21
+[Liu et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005767) Iterative Usage of Fixed and Random Effect Models for Powerful and Efficient Genome-Wide Association Studies
+
+#### June 14
 [Han et al.](https://www.nature.com/articles/ncomms14238) Clustering of 770,000 genomes reveals post-colonial population structure of North America
 
 #### June 8
