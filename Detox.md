@@ -21,10 +21,15 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 -->
 
 
+### July 2017
+
+#### July 6, 2017
+[Boyle et al.](http://www.cell.com/cell/abstract/S0092-8674(17)30629-3) An Expanded View of Complex Traits: From Polygenic to Omnigenic
+
 ### June 2017
 
 #### June 29
-[Zhou et al.](http://biorxiv.org/content/early/2017/06/05/146373)The Evolutionary Genomics of Grape (Vitis vinifera ssp. vinifera) Domestication
+[Zhou et al.](http://biorxiv.org/content/early/2017/06/05/146373) The Evolutionary Genomics of Grape (Vitis vinifera ssp. vinifera) Domestication
 
 #### June 22
 [Liu et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005767) Iterative Usage of Fixed and Random Effect Models for Powerful and Efficient Genome-Wide Association Studies
