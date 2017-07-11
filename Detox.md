@@ -23,7 +23,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### July 2017
 
-#### July 6, 2017
+#### July 13
+[Fleming et al.](http://www.g3journal.org/content/7/5/1525) Genomic Comparison of Indigenous African and Northern European Chickens Reveals Putative Mechanisms of Stress Tolerance Related to Environmental Selection Pressure
+
+#### July 6
 [Boyle et al.](http://www.cell.com/cell/abstract/S0092-8674(17)30629-3) An Expanded View of Complex Traits: From Polygenic to Omnigenic
 
 ### June 2017
