@@ -23,6 +23,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### July 2017
 
+#### July 20
+[Monnahan and Kelly](http://www.genetics.org/content/206/3/1621) The Genomic Architecture of Flowering Time Varies Across Space and Time in Mimulus guttatus
+
 #### July 13
 [Fleming et al.](http://www.g3journal.org/content/7/5/1525) Genomic Comparison of Indigenous African and Northern European Chickens Reveals Putative Mechanisms of Stress Tolerance Related to Environmental Selection Pressure
 
