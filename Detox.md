@@ -25,8 +25,6 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ####August 3
 [Venkat et al](http://www.biorxiv.org/content/early/2017/07/20/165969) Multinucleotide mutations cause false inferences of positive selection
 
-
-
 ### July 2017
 
 #### July 27
