@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Detox
 permalink: /Detox/
@@ -13,15 +13,24 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
-<!---
+
 ### August 2017
 
-####August 3
+#### August 17
+[Noble et al.](http://www.biorxiv.org/content/early/2017/03/27/120865) Polygenicity and epistasis underlie fitness-proximal traits in the Caenorhabditis elegans multiparental experimental evolution (CeMEE) panel
+
+#### August 10
 [Cheng et al.](https://www.nature.com/ng/journal/v48/n10/abs/ng.3634.html) Subgenome parallel selection is associated with morphotype diversification and convergent crop domestication in Brassica rapa and Brassica oleracea
--->
+
+####August 3
+[Venkat et al](http://www.biorxiv.org/content/early/2017/07/20/165969) Multinucleotide mutations cause false inferences of positive selection
+
 
 
 ### July 2017
+
+#### July 27
+[Grauer](https://academic.oup.com/gbe/article/3952726/An-upper-limit-on-the-functional-fraction-of-the?searchresult=1) An upper limit on the functional fraction of the human genomeXs
 
 #### July 20
 [Monnahan and Kelly](http://www.genetics.org/content/206/3/1621) The Genomic Architecture of Flowering Time Varies Across Space and Time in Mimulus guttatus
