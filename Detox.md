@@ -22,7 +22,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 #### August 10
 [Cheng et al.](https://www.nature.com/ng/journal/v48/n10/abs/ng.3634.html) Subgenome parallel selection is associated with morphotype diversification and convergent crop domestication in Brassica rapa and Brassica oleracea
 
-####August 3
+#### August 3
 [Venkat et al](http://www.biorxiv.org/content/early/2017/07/20/165969) Multinucleotide mutations cause false inferences of positive selection
 
 ### July 2017
