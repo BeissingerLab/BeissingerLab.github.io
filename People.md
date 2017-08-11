@@ -38,7 +38,7 @@ Kate has over 25 years of experience in both the lab and field. She leads all of
 
 <br><br><br><br><br>
 
-## Postdoctoral Scholars
+## Postdoctoral Scientists
 ----------------------------------------
 
 #### Sarah Turner, Postdoc
