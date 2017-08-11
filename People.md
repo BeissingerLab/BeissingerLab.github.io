@@ -34,7 +34,7 @@ Tim is a research geneticist with the USDA-ARS and an adjunct assistant professo
 </div>
 
 #### Kate Guill, Biological Science Technician
-Kate has over 25 years of experience in both the lab and field. She leads all of our data-generating endeavors. (photo is of Kate's dog, Lady Winston)
+Kate has over 25 years of experience in both the lab and field. She leads all of our data-generating endeavors. (photo is Kate's dog, Lady Winston)
 
 <br><br><br><br><br>
 
