@@ -44,7 +44,7 @@ Kate has over 25 years of experience in both the lab and field. She leads all of
 #### Sarah Turner, Postdoc
 Sarah is an NSF-funded postdoc working on the domestication and evolutionary history of Brassica oleracea (cabbage, kale, broccoli, etc). She completed her PhD at the University of Wisconsin, Madison.
 
-## Postdoctoral Scholars
+## Graduate Students
 ----------------------------------------
 
 
@@ -70,9 +70,12 @@ Abi is working on identifying selection and conducting GWAS for physiological tr
 <br><br><br><br><br><br>
 
 
+## Undergraduate scientists
+----------------------------------------
 <div style="float: left; padding-right: 15px">
     <a href="http://beissingerlab.github.io/img/Husain.jpg"><img src="/img/Husain.jpg" title="Husain" width="150" border="0"></a>
 </div>
+
 
 
 #### Husain Agha, Undergraduate Researcher
