@@ -30,7 +30,7 @@ Tim is a research geneticist with the USDA-ARS and an adjunct assistant professo
 ----------------------------------------
 
 <div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/img/ladyWinston.jpg"><img src="/img/ladyWinston.jpg" alt="Tim Beissinger" title="Picture" width="150" border="0"></a>
+    <a href="http://beissingerlab.github.io/img/ladyWinston.jpg"><img src="/img/ladyWinston.jpg" title="Picture" width="150" border="0"></a>
 </div>
 
 #### Kate Guill, Biological Science Technician
@@ -41,8 +41,17 @@ Kate has over 25 years of experience in both the lab and field. She leads all of
 ## Postdoctoral Scientists
 ----------------------------------------
 
-#### Sarah Turner, Postdoc
+<div style="float: left; padding-right: 15px">
+    <a href="http://beissingerlab.github.io/img/Turner_photo.jpg"><img src="/img/Turner_photo.jpg" title="Picture" width="150" border="0"></a>
+</div>
+
+
+
+#### Sarah Turner, Postdoc <a href="https://mishaploid.github.io/" target="_blank"><img src="/img/www.png" style="width: 23px;"></a> <a href="https://twitter.com/mishaploid" target="_blank"><img src="/img/Twitter_logo_blue.png" style="width: 23px; border=10 px"></a>
+
 Sarah is an NSF-funded postdoc working on the domestication and evolutionary history of Brassica oleracea (cabbage, kale, broccoli, etc). She completed her PhD at the University of Wisconsin, Madison.
+
+<br><br><br><br><br>
 
 ## Graduate Students
 ----------------------------------------
