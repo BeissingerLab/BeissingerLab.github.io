@@ -17,7 +17,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### August 2017
 
 #### August 24
-[Swartz et al.](http://science.sciencemag.org/content/357/6350/512.full) Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America
+[Swarts et al.](http://science.sciencemag.org/content/357/6350/512.full) Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America
 
 #### August 17
 [Noble et al.](http://www.biorxiv.org/content/early/2017/03/27/120865) Polygenicity and epistasis underlie fitness-proximal traits in the Caenorhabditis elegans multiparental experimental evolution (CeMEE) panel
