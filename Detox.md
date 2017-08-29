@@ -16,6 +16,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### August 2017
 
+#### August 31
+[Guerrero et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006817) Pervasive antagonistic interactions among hybrid incompatibility loci
+
 #### August 24
 [Swarts et al.](http://science.sciencemag.org/content/357/6350/512.full) Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America
 
