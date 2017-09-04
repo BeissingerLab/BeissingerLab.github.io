@@ -13,6 +13,10 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 
+### September 2017
+
+#### September 7
+[Alguillon et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006911) Deconstructing isolation-by-distance: The genomic consequences of limited dispersal
 
 ### August 2017
 
