@@ -15,8 +15,11 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### September 2017
 
-#### September 7
+#### September 14
 [Alguillon et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006911) Deconstructing isolation-by-distance: The genomic consequences of limited dispersal
+
+#### September 7
+No Detox - Go to the [Tomato festival!](https://calendar.missouri.edu/event/tomato_festival_9575#.Wa9LzNPytE5)
 
 ### August 2017
 
