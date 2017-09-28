@@ -16,7 +16,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### September 2017
 
 #### September 28
-[Sørensen et al.](http://www.genetics.org/content/203/4/1871.long) Genomic Prediction for Quantitative Traits Is Improved by Mapping Variants to Gene Ontology Categories in Drosophila melanogaster
+[Edwards et al.](http://www.genetics.org/content/203/4/1871.long) Genomic Prediction for Quantitative Traits Is Improved by Mapping Variants to Gene Ontology Categories in Drosophila melanogaster
 
 #### September 21
 [Bromham et al.](http://www.journals.uchicago.edu/doi/abs/10.1086/680052) Exploring the Relationships between Mutation Rates, Life History, Genome Size, Environment, and Species Richness in Flowering Plants
