@@ -14,6 +14,12 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### October 2017
 
+#### October 19
+[Yang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) Trade-off between Transcriptome Plasticity and Genome Evolution in Cephalopods
+
+#### October 12
+[NoaLiscovitch-Brauer et al.](http://www.sciencedirect.com/science/article/pii/S0092867417303446?via=ihub) Trade-off between Transcriptome Plasticity and Genome Evolution in Cephalopods
+
 #### October 5
 [Goiffon et al.](http://www.genetics.org/content/206/3/1675) Improving Response in Genomic Selection with a Population-Based Selection Strategy: Optimal Population Value Selection
 
