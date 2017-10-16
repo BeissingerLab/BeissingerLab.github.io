@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### October 2017
 
+#### October 26
+[Chari et al.](https://www.biorxiv.org/content/early/2017/10/10/200725) Compensatory evolution via cryptic genetic variation: Distinct trajectories to phenotypic and fitness recovery
+
 #### October 19
 [Yang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize
 
