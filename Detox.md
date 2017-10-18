@@ -18,7 +18,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 [Chari et al.](https://www.biorxiv.org/content/early/2017/10/10/200725) Compensatory evolution via cryptic genetic variation: Distinct trajectories to phenotypic and fitness recovery
 
 #### October 19
-[Yang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize
+[Yang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize ***We're going to Lucky's Market again this week. Soon we'll vote on the regular destination. Location: https://goo.gl/maps/PvqDdt842az***
 
 #### October 12
 [NoaLiscovitch-Brauer et al.](http://www.sciencedirect.com/science/article/pii/S0092867417303446?via=ihub) Trade-off between Transcriptome Plasticity and Genome Evolution in Cephalopods ***We're going to give Lucky's Market a try this week. Instead of Craft Beer Cellar, we'll meet at Lucky's. Location: https://goo.gl/maps/PvqDdt842az***
