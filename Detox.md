@@ -12,6 +12,9 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### November 2017
+[Bosse et al.](http://science.sciencemag.org/content/358/6361/365) Recent natural selection causes adaptive evolution of an avian polygenic trait
+
 ### October 2017
 
 #### October 26
