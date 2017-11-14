@@ -14,6 +14,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### November 2017
 
+### November 16 #TBT
+[Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
+
+
 #### November 9
 [Santos et al.](http://science.sciencemag.org/content/358/6361/386.full) Taxon-restricted genes at the origin of a novel trait allowing access to a new environment
 
