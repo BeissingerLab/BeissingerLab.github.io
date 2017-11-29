@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### November 2017
 
+#### November 30
+[Gage et al 2017](https://www.nature.com/articles/s41467-017-01450-2) The effect of artificial selection on phenotypic plasticity in maize
+
 #### November 16 #TBT
 [Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
 
