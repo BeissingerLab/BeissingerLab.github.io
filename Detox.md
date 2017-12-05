@@ -15,10 +15,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### December 2017
 
 #### December 14
-[Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
+[Zhao et al, 2017](http://www.pnas.org/content/114/44/11715.full) Evolutionary genomics of grape (Vitis vinifera ssp. vinifera) domestication
 
 #### December 7
-[Zhao et al, 2017](http://www.pnas.org/content/114/44/11715.full) Evolutionary genomics of grape (Vitis vinifera ssp. vinifera) domestication
+[Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
 
 ### November 2017
 
