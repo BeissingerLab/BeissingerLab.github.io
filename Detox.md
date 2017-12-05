@@ -12,6 +12,10 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### December 2017
+#### December 6
+[Zhao et al, 2017](http://www.pnas.org/content/114/44/11715.full) Evolutionary genomics of grape (Vitis vinifera ssp. vinifera) domestication
+
 ### November 2017
 
 #### November 30
