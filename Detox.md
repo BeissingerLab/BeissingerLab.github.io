@@ -15,7 +15,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### December 2017
 
 #### December 14
-[Zhao et al, 2017](http://www.pnas.org/content/114/44/11715.full) Evolutionary genomics of grape (Vitis vinifera ssp. vinifera) domestication
+[Schrider and Kern, 2017](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
 
 #### December 7
 [Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
