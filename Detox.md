@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### December 2017
 
+#### December 21
+[Senn 2011](http://www.dcscience.net/Senn-2011-Francis-Galton-and-Regression-to-the-Mean.pdf) Francis Galton and regression to the mean
+
 #### December 14
 [Schrider and Kern, 2017](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
 
