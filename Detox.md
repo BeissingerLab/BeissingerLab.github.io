@@ -12,9 +12,67 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
+### December 2017
 
+#### December 21
+[Senn 2011](http://www.dcscience.net/Senn-2011-Francis-Galton-and-Regression-to-the-Mean.pdf) Francis Galton and regression to the mean
+
+#### December 14
+[Schrider and Kern, 2017](https://www.biorxiv.org/content/early/2017/10/20/206482) Machine Learning for Population Genetics: A New Paradigm
+
+#### December 7
+[Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
+
+### November 2017
+
+#### November 30
+[Gage et al 2017](https://www.nature.com/articles/s41467-017-01450-2) The effect of artificial selection on phenotypic plasticity in maize
+
+#### November 16 #TBT
+[Falconer 1992](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.26.120192.000245) Early Selection Experiments 
+
+
+#### November 9
+[Santos et al.](http://science.sciencemag.org/content/358/6361/386.full) Taxon-restricted genes at the origin of a novel trait allowing access to a new environment
+
+#### November 2
+[Bosse et al.](http://science.sciencemag.org/content/358/6361/365) Recent natural selection causes adaptive evolution of an avian polygenic trait
+
+### October 2017
+
+#### October 26
+[Chari et al.](https://www.biorxiv.org/content/early/2017/10/10/200725) Compensatory evolution via cryptic genetic variation: Distinct trajectories to phenotypic and fitness recovery
+
+#### October 19
+[Yang et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007019) Incomplete dominance of deleterious alleles contributes substantially to trait variation and heterosis in maize ***We're going to Lucky's Market again this week. Soon we'll vote on the regular destination. Location: https://goo.gl/maps/PvqDdt842az***
+
+#### October 12
+[NoaLiscovitch-Brauer et al.](http://www.sciencedirect.com/science/article/pii/S0092867417303446?via=ihub) Trade-off between Transcriptome Plasticity and Genome Evolution in Cephalopods ***We're going to give Lucky's Market a try this week. Instead of Craft Beer Cellar, we'll meet at Lucky's. Location: https://goo.gl/maps/PvqDdt842az***
+
+#### October 5
+[Goiffon et al.](http://www.genetics.org/content/206/3/1675) Improving Response in Genomic Selection with a Population-Based Selection Strategy: Optimal Population Value Selection
+
+### September 2017
+
+#### September 28
+[Edwards et al.](http://www.genetics.org/content/203/4/1871.long) Genomic Prediction for Quantitative Traits Is Improved by Mapping Variants to Gene Ontology Categories in Drosophila melanogaster
+
+#### September 21
+[Bromham et al.](http://www.journals.uchicago.edu/doi/abs/10.1086/680052) Exploring the Relationships between Mutation Rates, Life History, Genome Size, Environment, and Species Richness in Flowering Plants
+
+#### September 14
+[Alguillon et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006911) Deconstructing isolation-by-distance: The genomic consequences of limited dispersal
+
+#### September 7
+No Detox - Go to the [Tomato festival!](https://calendar.missouri.edu/event/tomato_festival_9575#.Wa9LzNPytE5)
 
 ### August 2017
+
+#### August 31
+[Guerrero et al.](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006817) Pervasive antagonistic interactions among hybrid incompatibility loci
+
+#### August 24
+[Swarts et al.](http://science.sciencemag.org/content/357/6350/512.full) Genomic estimation of complex traits reveals ancient maize adaptation to temperate North America
 
 #### August 17
 [Noble et al.](http://www.biorxiv.org/content/early/2017/03/27/120865) Polygenicity and epistasis underlie fitness-proximal traits in the Caenorhabditis elegans multiparental experimental evolution (CeMEE) panel
