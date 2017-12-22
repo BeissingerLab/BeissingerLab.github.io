@@ -48,7 +48,7 @@ The [**hat{G}**](http://github.com/timbeissinger/ComplexSelection) R function ca
 <br>
 <br>
 <br>
-br>
+<br>
 <br>
 
 -----------------------------------------
