@@ -36,6 +36,19 @@ The [Ohta.D.Stats](http://beissingerlab.github.io/docs/Ohta.D.Stats.R) R functio
 
 -----------------------------------------
 
+<div style="float: left; padding-right: 15px; padding-top: 15px">
+    <a><img src="/img/Ghat.png" alt="Ghat" title="D'2_IS" width="250" border="1"></a>
+</div>
+
+
+### hat(G) to identify selected complex traits
+The [**hat(G)**](http://github.com/timbeissinger/ComplexSelection) R function can be implemented to identify complex traits that have been subjected to selection. It does this by relating allele frequency change to SNP effect estimates for every SNP genotypes. See our [preprint](https://www.biorxiv.org/content/early/2017/12/21/238295){:target="_blank"} for details.
+
+<br>
+<br>
+
+-----------------------------------------
+
 ### Useful Scripts
 [DriftSimulator.R](http://beissingerlab.github.io/docs/DriftSimulator.R) is an R function for conducting simulations of genetic drift at a single locus. Initial frequency, number of generations, and population demographics can all be manipulated, and plotting is simple. Documentation is in the header of the file. Load into R with "source()", or by copy-pasting the text of the script.
 
