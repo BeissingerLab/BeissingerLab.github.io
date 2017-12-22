@@ -4,7 +4,8 @@ title: Publications
 permalink: /Publications/
 ---
 
-<!--- ## Preprints -->
+## Preprints
+**Beissinger, T.M.**, Kruppa, J., Cavero, D., Ha, N., Erbe, M., Simianer, H., [A simple test identifies selection on complex traits in breeding and experimentally-evolved populations](https://www.biorxiv.org/content/early/2017/12/21/238295) *bioRxiv*. DOI: 10.1101/238295
 
 ## 2017
 Wang, L., **Beissinger, T.M.**, Lorant, A., Ross-Ibarra, C., Ross-Ibarra, J., Hufford, M. [The interplay of demography and selection during maize domestication and expansion.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4) *Genome Biology*. DOI: 10.1186/s13059-017-1346-4.
