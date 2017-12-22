@@ -41,8 +41,8 @@ The [Ohta.D.Stats](http://beissingerlab.github.io/docs/Ohta.D.Stats.R) R functio
 </div>
 
 
-### G&#x0302 to identify selected complex traits
-The [**G&#x0302**](http://github.com/timbeissinger/ComplexSelection) R function can be implemented to identify complex traits that have been subjected to selection. It does this by relating allele frequency change to SNP effect estimates for every SNP genotypes. See our [preprint](https://www.biorxiv.org/content/early/2017/12/21/238295){:target="_blank"} for details.
+### $\"{G} to identify selected complex traits
+The [**$\"{G}$**](http://github.com/timbeissinger/ComplexSelection) R function can be implemented to identify complex traits that have been subjected to selection. It does this by relating allele frequency change to SNP effect estimates for every SNP genotypes. See our [preprint](https://www.biorxiv.org/content/early/2017/12/21/238295){:target="_blank"} for details.
 
 <br>
 <br>
