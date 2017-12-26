@@ -14,6 +14,9 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### December 2017
 
+#### December 28
+Like the rest of the University, Detox will be closed this week. Happy new year!
+
 #### December 21
 [Senn 2011](http://www.dcscience.net/Senn-2011-Francis-Galton-and-Regression-to-the-Mean.pdf) Francis Galton and regression to the mean
 
