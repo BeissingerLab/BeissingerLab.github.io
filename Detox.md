@@ -20,7 +20,7 @@ TBD
 TBD
 
 #### January 11
-TBD
+[Gage et al.](https://www.nature.com/articles/s41467-017-01450-2) The effect of artificial selection on phenotypic plasticity in maize
 
 #### January 4
 [Cornejo et al](https://www.biorxiv.org/content/early/2017/11/22/223438) Genomic insights into the domestication of the chocolate tree, Theobroma cacao L.
