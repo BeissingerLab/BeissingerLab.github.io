@@ -14,10 +14,11 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### January 2018
 
 #### January 25
-TBD
+[Tilk et al](https://www.biorxiv.org/content/biorxiv/early/2018/01/11/244004.full.pdf) High accuracy haplotype-derived allele frequencies
+from ultra-low coverage pool-seq samples
 
 #### January 18
-TBD
+[Zhao and Begun](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007016) Genomics of parallel adaptation at two timescales in Drosophila **Canceled due to hazardous weather**
 
 #### January 11
 [Zhao and Begun](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007016) Genomics of parallel adaptation at two timescales in Drosophila
