@@ -11,6 +11,11 @@ Regular attendance isn't mandatory, just come when you can and/or when the paper
 We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://www.craftbeercellar.com/columbia/){:target="_blank"}, in Downtown Columbia. If you'd like email reminders, ask Tim (beissingert-at-missouri.edu)to add you to the email list.
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
+### February 2018
+
+#### February 1
+[Mathew et al.](http://www.genetics.org/content/208/2/525) Detection of Epistasis for Flowering Time Using Bayesian Multilocus Estimation in a Barley MAGIC Population
+
 ### January 2018
 
 #### January 25
@@ -18,10 +23,10 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 from ultra-low coverage pool-seq samples
 
 #### January 18
-[Zhao and Begun](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007016) Genomics of parallel adaptation at two timescales in Drosophila **Canceled due to hazardous weather**
+[Zhao and Begun](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007016) Genomics of parallel adaptation at two timescales in Drosophila 
 
 #### January 11
-[Zhao and Begun](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007016) Genomics of parallel adaptation at two timescales in Drosophila
+[Zhao and Begun](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007016) Genomics of parallel adaptation at two timescales in Drosophila **Canceled due to hazardous weather**
 
 #### January 4
 [Cornejo et al](https://www.biorxiv.org/content/early/2017/11/22/223438) Genomic insights into the domestication of the chocolate tree, Theobroma cacao L.
