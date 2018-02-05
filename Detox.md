@@ -20,7 +20,7 @@ Papers & Locations TBD
 [Pitchers et al. 2017](https://www.biorxiv.org/content/early/2017/02/14/108308) The power of a multivariate approach to genome-wide association studies: an example with Drosophila melanogaster wing shape **Dr. Dworkin will give a DBS seminar on Feb 20!**
 
 #### February 8
-TBD
+***Instead of Detox, consider attending the [MU Plant Research Symposium](http://mupioneersymposium.org/)***
 
 #### February 1
 [Mathew et al.](http://www.genetics.org/content/208/2/525) Detection of Epistasis for Flowering Time Using Bayesian Multilocus Estimation in a Barley MAGIC Population
