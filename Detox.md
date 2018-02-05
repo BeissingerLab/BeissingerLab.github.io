@@ -17,7 +17,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 Papers & Locations TBD
 
 #### February 15
-[Pitchers et al. 2017](https://www.biorxiv.org/content/early/2017/02/14/108308) The power of a multivariate approach to genome-wide association studies: an example with Drosophila melanogaster wing shape
+[Pitchers et al. 2017](https://www.biorxiv.org/content/early/2017/02/14/108308) The power of a multivariate approach to genome-wide association studies: an example with Drosophila melanogaster wing shape **Dr. Dworkin will give a DBS seminar on Feb 20!**
 
 #### February 8
 TBD
