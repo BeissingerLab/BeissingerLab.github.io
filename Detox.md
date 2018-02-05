@@ -13,6 +13,15 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 ### February 2018
 
+#### February 22 **Detox Extravaganza/Tim Send off**
+Papers & Locations TBD
+
+#### February 15
+[Pitchers et al. 2017](https://www.biorxiv.org/content/early/2017/02/14/108308) The power of a multivariate approach to genome-wide association studies: an example with Drosophila melanogaster wing shape
+
+#### February 8
+TBD
+
 #### February 1
 [Mathew et al.](http://www.genetics.org/content/208/2/525) Detection of Epistasis for Flowering Time Using Bayesian Multilocus Estimation in a Barley MAGIC Population
 
