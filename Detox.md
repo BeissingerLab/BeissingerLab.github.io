@@ -15,8 +15,8 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 
 #### February 22 **Detox Extravaganza/Tim Send off**
 To celebrate Tim's last Detox in Columbia, we'll spend an hour discussing each of the following three papers at three different locations. As always, we'll start at Craft Beer Cellar at 5:00.  
+[Wu et al. 2018](https://www.nature.com/articles/nature25447) Genomics of the origin and evolution of Citrus  
 [Lin et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS  
-TBD  
 TBD  
 
 #### February 15
