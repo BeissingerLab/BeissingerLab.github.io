@@ -18,7 +18,7 @@ To celebrate Tim's last Detox in Columbia, we'll spend an hour discussing each o
 
 [Wu et al. 2018](https://www.nature.com/articles/nature25447) Genomics of the origin and evolution of Citrus  
 [Lin et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS  
-TBD  
+[Novembre et al. 2008](https://www.nature.com/articles/nature07331) Genes mirror geography within Europe
 
 #### February 15
 [Pitchers et al. 2017](https://www.biorxiv.org/content/early/2017/02/14/108308) The power of a multivariate approach to genome-wide association studies: an example with Drosophila melanogaster wing shape **Dr. Dworkin will give a DBS seminar on Feb 20!**
