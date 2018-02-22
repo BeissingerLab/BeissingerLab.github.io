@@ -4,6 +4,25 @@ title: News
 permalink: /News/
 ---
 
+
+### December 2017
+Our latest preprint on identifying polygenic traits that have been under selection is posted to [bioRxiv](https://www.biorxiv.org/content/early/2017/12/21/238295)
+
+### October 2017
+Paul Petrowski begins a PhD rotation in the lab
+
+### August 2017
+Sarah Turner, an NSF-funded postdoc, becomes the newest member to join the lab
+
+### July 2017
+Shukai Chang joins the lab as a PhD student in MUII
+
+### May 2017
+We have finished planting to kick off another exciting field season
+
+### Feb 2017
+Abiskar Giwali joins the lab as a PhD student in Biology
+
 ### Feb 2017
 Our latest paper, [*Medical subject heading (MeSH) annotations illuminate maize genetics and evolution*](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0159-5),  has been published in the journal Plant Methods.
 
