@@ -9,7 +9,7 @@ permalink: /News/
 Our latest preprint on identifying polygenic traits that have been under selection is posted to [bioRxiv](https://www.biorxiv.org/content/early/2017/12/21/238295)
 
 ### November 2017
-Our recent collaboration with Li Wang, Jeff Ross-Ibarra, and Matt Hufford was published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4). Genome Biology also created a fun video abstract for [YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM&t=31s).
+Our recent collaboration with Li Wang, Jeff Ross-Ibarra, and Matt Hufford was published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4). Genome Biology also created a fun video abstract for [YouTube](https://www.youtube.com/watch?v=KgIUGHEZ2nM&t=0s).
 
 ### October 2017
 Paul Petrowski begins a PhD rotation in the lab
