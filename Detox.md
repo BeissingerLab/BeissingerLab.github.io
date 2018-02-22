@@ -14,7 +14,7 @@ Email paper nominations to Tim, and I'll work them into the schedule below.
 ### February 2018
 
 #### February 22 **Detox Extravaganza/Tim Send off**
-To celebrate Tim's last Detox in Columbia, we'll spend an hour discussing each of the following three papers at three different locations. As always, we'll start at Craft Beer Cellar at 5:00 and discuss citrus domestication (paper #1).  At 6:00 we'll grab food at Seol Taco before heading to Gunter Hans to talk about erd-GWAS (paper #2). At 7:00 we'll go to The Understudy where we'll discuss a classic that demonstrated the power of PCA (paper #3).
+To celebrate Tim's last Detox in Columbia, we'll spend an hour discussing each of the following three papers at three different locations. We'll start at Craft Beer Cellar an hour earlier than usual, at 4:00, to discuss citrus domestication (paper #1).  At 5:00 we'll grab food at Seol Taco before heading to Gunter Hans to talk about erd-GWAS (paper #2). At 6:00 we'll go to The Understudy where we'll discuss a classic that demonstrated the power of PCA (paper #3).
 
 [Wu et al. 2018](https://www.nature.com/articles/nature25447) Genomics of the origin and evolution of Citrus  
 [Lin et al. 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS  
