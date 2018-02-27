@@ -11,6 +11,11 @@ Regular attendance isn't mandatory, just come when you can and/or when the paper
 We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://www.craftbeercellar.com/columbia/){:target="_blank"}, in Downtown Columbia. If you'd like email reminders, ask Tim (beissingert-at-missouri.edu)to add you to the email list.
 
 Email paper nominations to Tim, and I'll work them into the schedule below.
+
+### Detox Hiatus
+Detox will be taking a break for a few months until it finds a new home. If you are at MU, come to the newly created DataPhiles group! Info here: http://elizabethking.org/DataPhiles/
+
+
 ### February 2018
 
 #### February 22 **Detox Extravaganza/Tim Send off**
