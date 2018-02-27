@@ -13,7 +13,7 @@ We meet on **Thursday afternoons at 5:00 pm** at the [Craft Beer Cellar](http://
 Email paper nominations to Tim, and I'll work them into the schedule below.
 
 ### Detox Hiatus
-Detox will be taking a break for a few months until it finds a new home. If you are at MU, come to the newly created DataPhiles group! Info here: [http://elizabethking.org/DataPhiles/] (http://elizabethking.org/DataPhiles/)
+Detox will be taking a break for a few months until it finds a new home. If you are at MU, come to the newly created DataPhiles group! Info here: [DataPhiles!](http://elizabethking.org/DataPhiles/)
 
 
 ### February 2018
