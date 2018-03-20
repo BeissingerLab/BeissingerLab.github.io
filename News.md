@@ -4,6 +4,11 @@ title: News
 permalink: /News/
 ---
 
+### March 2018
+Our paper on identifying polygenic traits that have been under selection is available early online at [Genetics](http://www.genetics.org/content/early/2018/03/14/genetics.118.300857).
+
+### February 2018
+Our latest preprint on subset-based genomic prediction is posted on [bioRxiv](https://www.biorxiv.org/content/early/2018/02/26/272047)
 
 ### December 2017
 Our latest preprint on identifying polygenic traits that have been under selection is posted to [bioRxiv](https://www.biorxiv.org/content/early/2017/12/21/238295)
