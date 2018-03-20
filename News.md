@@ -7,6 +7,8 @@ permalink: /News/
 ### March 2018
 Our paper on identifying polygenic traits that have been under selection is available early online at [Genetics](http://www.genetics.org/content/early/2018/03/14/genetics.118.300857).
 
+Lab undergrad Husain Agha receives a Magnet Award which includes full funding to attend the 2018 Maize Genetics Conference, where he'll present on our Epistasis Mapping Populations to identify epistasis. Have fun in France, Husain!
+
 ### February 2018
 Our latest preprint on subset-based genomic prediction is posted on [bioRxiv](https://www.biorxiv.org/content/early/2018/02/26/272047)
 
