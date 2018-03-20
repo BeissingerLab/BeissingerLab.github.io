@@ -31,7 +31,7 @@ GenWin is an R package that defines window or bin boundaries for the analysis of
 
 
 ### G-hat to identify selected complex traits
-The [**G-hat**](http://github.com/timbeissinger/ComplexSelection) R function can be implemented to identify complex traits that have been subjected to selection. It does this by relating allele frequency change to SNP effect estimates for every SNP genotypes. See our [preprint](https://www.biorxiv.org/content/early/2017/12/21/238295){:target="_blank"} for details.
+The [**G-hat**](http://github.com/timbeissinger/ComplexSelection) R function can be implemented to identify complex traits that have been subjected to selection. It does this by relating allele frequency change to SNP effect estimates for every SNP genotypes. See our [paper](http://www.genetics.org/content/early/2018/03/14/genetics.118.300857){:target="_blank"} for details.
 
 <br>
 <br>
@@ -46,7 +46,7 @@ The [**G-hat**](http://github.com/timbeissinger/ComplexSelection) R function can
 </div>
 
 ### Ohta.D.Stats
-The [Ohta.D.Stats](http://beissingerlab.github.io/docs/Ohta.D.Stats.R) R function can be implemented to calculate Tomoko Ohta's partitioning of linkage disequilibrium, deemed D-statistics, for pairs of loci. The code is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this function in action.
+The [ohtadstats](https://cran.r-project.org/web/packages/ohtadstats/index.html) R package was is maintained by former lab member Paul Petrowski. The package can be implemented to calculate Tomoko Ohta's partitioning of linkage disequilibrium, deemed D-statistics, for pairs of loci. The package is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this package in action.
 
 <br>
 <br>
