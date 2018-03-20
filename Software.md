@@ -46,7 +46,7 @@ The [**G-hat**](http://github.com/timbeissinger/ComplexSelection) R function can
 </div>
 
 ### Ohta.D.Stats
-The [ohtadstats](https://cran.r-project.org/web/packages/ohtadstats/index.html) R package was is maintained by former lab member Paul Petrowski. The package can be implemented to calculate Tomoko Ohta's partitioning of linkage disequilibrium, deemed D-statistics, for pairs of loci. The package is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this package in action.
+The [ohtadstats](https://cran.r-project.org/web/packages/ohtadstats/index.html) R package, a work of former lab member Paul Petrowski, can be implemented to calculate Tomoko Ohta's partitioning of linkage disequilibrium, deemed D-statistics, for pairs of loci. The package is written so that it can be scaled-up to form a genome-wide test, by implementing the function repeatedly across pairs of loci in a genotype table. See our [Heredity paper](http://www.nature.com/hdy/journal/vaop/ncurrent/abs/hdy201581a.html){:target="_blank"} for an example of this package in action.
 
 <br>
 <br>
